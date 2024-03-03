@@ -91,7 +91,7 @@ Plant breeding as a human endeavor **(çaba, uğraş, gayret)** has its origins 
   + The transfer of genes by cellular and molecular means will increase the available gene pool and lead to second generation biotechnology plant products such as those with a modified oil, protein, vitamin, or micronutrient content or those that have been engineered to produce compounds that can be used as vaccines or anticarcinogens. 
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/K8yd1YYMMIueU1wSKTdIqDf3ThfAGT5fzhr-i7K8vUj8qJ4jepjJi3h7hwmefWw2OdvO2XhFvIi3w2-UoZ3SbCUNXlMfHjXY8dh5wySGtu3PeKMhNa3OCsEjYDxRTl5LAOiGU98" alt="Genetic modificaiton of crops" with="350" height="234">
+<img src="https://iastate.pressbooks.pub/app/uploads/sites/49/2021/04/Picture11-1024x648.png" alt="Genetic modificaiton of crops" with="350" height="222">
 </p>
 
 ## Duration and cost of plant breeding programs
@@ -161,7 +161,7 @@ Bt corn is enhanced through biotechnology to protect against insect pests. Its b
  which are desirable for saccesful cultivaiton but unnecessary for survival in the wild. 
 
 <p align="center">
-<img src="https://www.researchgate.net/profile/Simon-Madec/publication/339750579/figure/fig2/AS:866203568439298@1583530432859/Illustration-of-the-evolution-of-maize-Source-ScienceMag.jpg" alt="Domesticaiton_of_maize" width="300" height="164">
+<img src="https://www.infiniteunknown.net/wp-content/uploads/2016/03/Teosinte-600x363.gif" alt="Domesticaiton_of_maize" width="350" height="210">
 </p>
 
 ### Steps in the domestication process
@@ -262,5 +262,5 @@ Migration from one popular place to another is also responsible for a change in 
     + Overall better plant performance
 
   <p align="center">
-  <img src="https://www.researchgate.net/profile/Norifumi-Tanaka/publication/249882675/figure/fig1/AS:455379378282496@1485582312971/An-example-of-heterosis-in-cabbage-a-Whole-plants-of-parents-P1-Black-leaf.png" alt="heterosis" width="300" height="490">
+  <img src="https://pub.mdpi-res.com/genes/genes-12-01688/article_deploy/html/images/genes-12-01688-g005.png?1636696016" alt="heterosis" width="300" height="284">
   </p>
