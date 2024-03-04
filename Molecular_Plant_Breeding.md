@@ -3,7 +3,7 @@ Author: "Veysi Bingöl"
 Date: "02/03/2024"
 ---
 
-# Lecture 1
+# LECTURE 1
 
 ## Definition of the Plant breeding:
 
@@ -233,7 +233,7 @@ Migration from one popular place to another is also responsible for a change in 
   + produce uniform plants
 
 <p align="center"> 
-<img src="https://lh3.googleusercontent.com/proxy/l3N-tPm-q1yAdUlEFd0toTlVbra_bJ1_MSfTWcC0ANe6peY-ZjK5TGD8h3R7oNdvWHrdHe-bxibDQFxKhaRBKTdTknJjyDxXdF_D_fcuQWmp0zQZbCJhn4wWLO42t77BUw" alt="inbreeding" width="300" height="220">
+<img src="https://www.researchgate.net/profile/Christine-Arncken/publication/279507458/figure/fig6/AS:668868196446219@1536482013550/Heterosis-and-inbreeding-depression-in-maize-Source-after-Becker-1993-p-146.ppm" alt="inbreeding" width="300" height="253">
 </p>
 
 + **Hybridization:** Hybridization occurs when inbreed parents are mated (cross pollinated)
@@ -264,3 +264,163 @@ Migration from one popular place to another is also responsible for a change in 
   <p align="center">
   <img src="https://pub.mdpi-res.com/genes/genes-12-01688/article_deploy/html/images/genes-12-01688-g005.png?1636696016" alt="heterosis" width="300" height="284">
   </p>
+
+# LECTURE 2
+
+## Mendelian Genetics
+
++ Mendel developed two important laws of genetics
+
+  + Law of segregation 
+
+  + Law of independent assortment
+
+### Law of Segregation
+
+The Principle of Segregation describes `how pairs of gene variants are separated into reproductive cells.` The segregation of gene variants, called alleles, and their corresponding traits was first observed by Gregor Mendel in 1865. Mendel was studying genetics by performing mating crosses in pea plants. He crossed two heterozygous pea plants, which means that each plant had two different alleles at a particular genetic position. He discovered that the traits in the offspring of his crosses did not always match the traits in the parental plants. This meant that the pair of alleles encoding the traits in each parental plant had separated or segregated from one another during the formation of the reproductive cells. From his data, Mendel formulated the Principle of Segregation. We now know that the segregation of genes occurs during meiosis in eukaryotes, which is a process that produces reproductive cells called gametes. `(This text is taken from [nature](https://www.nature.com/scitable/definition/principle-of-segregation-301/) page.)`
+
+<p align="center">
+<img src="https://d20khd7ddkh5ls.cloudfront.net/genetics_mendel_law_of_segregation.jpg" alt="law of segregation" width="350" height="175">
+</p>
+
+
+### Law of Independent Assortment
+
+The Principle of Independent Assortment describes how different genes independently separate from one another when reproductive cells develop. 
+
+We now know that this independent assortment of genes occurs during meiosis in eukaryotes. During meiosis, the pairs of homologous chromosome are divided in half to form haploid cells, and this separation, or assortment, of homologous chromosomes is random. This means that all of the maternal chromosomes will not be separated into one cell, while the all paternal chromosomes are separated into another. Instead, after meiosis occurs, each haploid cell contains a mixture of genes from the organism's mother and father.
+
+Another feature of of independent assortment is recombination. Recombination occurs during meiosis and is a process that breaks and recombines pieces of DNA to produce new combinations of genes. Recombination scrambles pieces of maternal and paternal genes, which ensures that genes assort independently from one another. It is important to note that there is an exception to the law of independent assortment for genes that are located very close to one another on the same chromosome because of genetic linkage `(This text is taken from [nature](https://www.nature.com/scitable/definition/principle-of-independent-assortment-302/) page.)`
+
+<p align="center">
+<img src="https://cdn.kastatic.org/ka-perseus-images/42f91e811a6f0f2a0fb219451da25ec70f6b9b3f.png" alt="Independent assortment" width="400" height="352">
+</p>
+
++ Consider the dihybrid cross between YyRr heterozygotes
+
++ For a monohybrid cross Yy plants, we can use a simple `punnet square` to determine that the probabilities of the offspring genotypes are 1/4 for YY, 1/2 for Yy, and 1/4 for yy.
+
++ the same probabilities apply to the offspring genotypes for seed shape: 1/4 RR, 1/2 Rr, and 1/4 rr.
+
++ We can simply use the multiplication rule to determine the probability of each of the genotypes in the F2 generation. 
+
++ The calculations for finding the probabilities of two of the possible F2 genotypes (YYRR and YyRR) are shown below 
+
+```markdown
+Probability of YYRR= 1/4 (probability of YY) x 1/4 (RR)= 1/16
+```
+
+```markdown
+Probability of YyRR= 1/2 (Yy) x 1/4 (RR)= 1/8
+```
+
++ A trihybrid with purple flowers and yellow, row seeds (heterozygous for all three genes) with a plant with purple flowers and green, wrinkled seeds (heterozygous for flower color but homozygous recessive for the other two characters)
+
++ Using Mendelian symbols, our cross is PpYyRr Ppyyrr.
+
++ Listing all genotypes we could get that fulfill this condition: ppyyRr, ppYyrr, Ppyyrr, PPyyrr, and ppyyrr
+
+![solution of abowe text](image-3.png)
+
+## Basic Plant Genetic
+
+In eukaryotes, the DNA of the genome typically contains large fraction that does not carry genes
+
+![Genome-chromosome-gene](image-4.png)
+
+<u> A TYPİCAL EUKARYOTİC GENE </u>
+
+![important](image-5.png)
+
+***<u><p style="color:yellow;">EUKARYOTİC TRANSCRİPTİON GENE REGULATİON</p></u>***
+
+<p style="color:green;">
+Like prokaryotic cells, the transcription of genes in eukaryotes requires the action of an RNA polymerase to bind to a DNA sequence upstream of a gene in order to initiate transcription. However, unlike prokaryotic cells, the eukaryotic RNA polymerase requires other proteins, or transcription factors, to facilitate transcription initiation. RNA polymerase by itself cannot initiate transcription in eukaryotic cells. </p>
+
+***<u><p style="color:brown;">Promoter and the Transcription Machinery</p></u>***
+
+<p style="color:green;">
+Genes are organized to make the control of gene expression easier. The promoter region is immediately upstream of the coding sequence. This region can be short (only a few nucleotides in length) or quite long (hundreds of nucleotides long). The longer the promoter, the more available space for proteins to bind. This also adds more control to the transcription process. The length of the promoter is gene-specific and can differ dramatically between genes. Consequently, the level of control of gene expression can also differ quite dramatically between genes. The purpose of the promoter is to bind transcription factors that control the initiation of transcription. 
+</p>
+
+<p style="color:green;">
+Within the core promoter region, 25 to 35 bases upstream of the transcriptional start site, resides the TATA box. The TATA box has the consensus sequence of 5’-TATAAA-3’. The TATA box is the binding site for a protein complex called TFIID, which contains a TATA-binding protein. Binding of TFIID recruits other transcription factors, including TFIIB, TFIIE, TFIIF, and TFIIH. Some of these transcription factors help to bind the RNA polymerase to the promoter, and others help to activate the transcription initiation complex. 
+</p>
+
+<p style="color:orange;">
+In some eukaryotic genes, there are regions that help increase or enhance transcription. These regions, called enhancers, are not necessarily close to the genes they enhance. They can be located upstream of a gene, within the coding region of the gene, downstream of a gene, or may be thousands of nucleotides away.
+Enhancer regions are binding sequences, or sites, for specific transcription factors. When a protein transcription factor binds to its enhancer sequence, the shape of the protein changes, allowing it to interact with proteins at the promoter site. However, since the enhancer region may be distant from the promoter, the DNA must bend to allow the proteins at the two sites to come into contact. DNA bending proteins help to bend the DNA and bring the enhancer and promoter regions together.
+</p>
+
+<p align="center">
+<img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1087/2016/12/12233554/Figure_16_04_01.jpg" alt="Enhancer promoter region vs" width="400" height="342">
+
+<u> A TYPİCAL EUKARYOTİC MATURE mRNA </u>
+
+![mature mRNA](image-6.png)
+
+`Allele` is one of a number of alternative forms of the same gene or same genetic locus.
+
+`Locus` is the specific location of a gene or DNA sequence od position on a chromosome
+
+## Inheritance Patterns are Often More Complex Than Predicted by Simple Mendelian Genetics
+
++ Many heritable characters are not determined by only one gnee with two alleles
+
++ Most genes have multiple phenotypic effects, a property called `pleiotropy`.
+
++ However the basic principles of segregation and independent assortment apply even to more complex patterns of inheritance
+
+## Dominance/ Recessiveness/ Codominant/ Complete Dominance/ Incomplete Dominance
+
+There are two alleles for any given gene; dominant and recessive 
+
++ `Dominance` is a relationship between alleles; one allele can be dominant over a second allele, recessive to a third alelle, and codominant to a fourth (dominance differs from epistasis)
+
++ `Co-dominance` occurs when the contributions of both alelles are visible in the phenotype
+
+  + For example in co-dominance, a red homozygous flower will produce offspring that have red and white spots. 
+
++ `Complete Dominmance` is the effect of one allele in a heterozygous genotype completely masks the effects of the other. 
+
++ `Incomplete and Semi-dominance` occurs when the phenotype of the heterozygous genotype is distinct from and often intermediate to the phenotypes of the homozygous genotypes. 
+
+<p align="center">
+<img src="https://www.thoughtco.com/thmb/cJC67uthLEECo2X4mWiurNTttQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/incomplete_vs_codominance2-2e6704aac494409fa555975e560cab4e.jpg" alt="complete and incomplete dominance" width="350" height="233">
+</p>
+
+## The Relation Between Dominance and Phenotype
+
++ a dominant allele does not subdue a recessive alelle; alleles do not interact that way
+
++ Alleles are simply variations in a gene's nucleotide sequence 
+
++ For any character, dominance/recessivenes relationshio of alelles depend on the level at which we examine the phenotype
+
++ Supposed that a dysfunctional enzyme causes an accumualtion of lipids
+
+  + at the organismal level, the alelle is recessive
+
+  + At the biochemical level, the phenotype is incompletely dominant
+
+  + At the molecular level, the alelles are codominant
+
+## Epistasis
+
+Some traits may be determined by two or more genes
+
++ In epistasis, a gene at one locus alters the phenotypic expression of a gene at a second locus
+
++ Absence of expected phenotype as a result of masking expression of one gene pair by the expression of another gene pair
+
+  + The `homozygous recessive conditions` masks the effect of a `dominant allele at another locus`
+
+  + Crossing sweet pea plants produces purple; F2 generation hs a 9:7 rather than 9:3:3:1 dihybrid ratio; explained by `homozygous recessive blocking production of a metabolic enzyme`
+
+  + Albino animals inherit allelic pair (aa) preventing production of melanin, expression of eye, hair,color.
+
+  <p align="center">
+  <img src="https://static.wikia.nocookie.net/uvminvasivespecies/images/8/8f/GB_Gen2.jpg/revision/latest?cb=20150309010327" alt="epistasis" width="400" height="299"> 
+  </p>
+
+## Polyploidy
