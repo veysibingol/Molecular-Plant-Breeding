@@ -424,3 +424,271 @@ Some traits may be determined by two or more genes
   </p>
 
 ## Polyploidy
+
++ Arise by failure mitosis or meiois
+
++ Polyploid human zygotes are not viable
+
++ `Many polyploids are infertile, depending on the number of chromosome sets they have inherited. If the individual has inherited an odd number of chromosome sets (3n, 5n, etc), they are usually infertile. This is because the chromosomes cannot pair up correctly during meiosis and thus mo functional gametes are produced. If the individual has an even number of chromosome sets, they are usually fertile. This is because the chromosomes can still pair up during meiosis and produce functional gametes.`
+
++ `This explains why most naturaslly occuring polyploids have an even number of chromosome sets. It also explains why most organisms with an odd number of chromosomes are palnts. This is because plants can undergo vegetative growth, resulting in numerous individuals without producing gametes or the need for meiosis.`
+
++ ***`Polyploid:`*** having more complete sets of cromosomes than an ancestor triploid (3n), tetraploid (4n), hexaploid (6n), octaploid (8n)
+
++ ***`Euploid:`*** having the normal number of complete sets of chromosomes for plants and animals, usually 2 sets (diploid, 2n); for gametes, 1 set (haploid, n).
+
++ ***`ANeuploid:`*** having an incomplete or overcomplete sets of chromosomes.
+
+  + ***Nullisomy:*** entire homologous pair is missing 
+
+  + ***Monosomy:*** One homolog; partner is missing (2n-1)
+
+  + ***Polysomy:*** More than two homologs
+
+    + Trisomy (2n+1)
+
+    + Tetrasomy
+
+    + Pentsomy
+
+### Polyploid can Arise by an Error in Mitosis
+
++ Through the applicaiton of appropriate chemicals and other suitable environmental conditions, plant cells can be made to proliferate into an amorphous mass called `callus`
+
++ `Callus is an undifferentatied mass of cells` (cells with no assigned functions); it is a material used in genetic engineering to receive and incorporate foreign DNA into cells. 
+
+![polyploidy](image-7.png)
+
+
+## Mitotic Failure is Often induced with colchicine
+
++ The nuclear division process may be disrupted (e.g., Using a chemical called colchicine) on purpose by scientist, by interfering with the `spindle fibers` (the structures that pull the chromosome to opposite poles of the cell)
+
++ The consequence of this action is that the chromosomes fail to seperate properly into the daughter cells. 
+
++ A mitotic product may contain a duplication of all or some of the original set of chromosomes
+
+<p align="center">
+<img src="https://search-static.byjusweb.com/question-images/toppr_ext/questions/752500_659410_ans_5f278fbb0a5f4bba863f74061ca19cfe.jpg" alt="mitosis with chcolchicine" width="351" height="400">
+</p>
+
++ Tetraploidization can restore fertility to an infertile diploid hybrid plants. 
+
+![fertile tetraploid](image-8.png)
+
+### Triploidy can arise by an error in meiosis 1
+
+During meiosis I, homologous chromosomes fail to separate properly, leading to the formation of gametes with an extra set of chromosomes. When such gametes are fertilized by a normal gamete, a triploid zygote is formed.
+
+![Triploidy in m2](image-9.png)
+
+### Triploidy can arise by an error in meiosis 2
+
+Meiosis II involves the separation of sister chromatids, and errors during this stage generally result in a gain or loss of individual chromosomes (aneuploidy), rather than a complete extra set of chromosomes (triploidy).
+
+![Triploidy in m1](image-10.png)
+
+### Triploidy can arise by double fertilization
+
+Triploidy typically arises from the fusion of two sperm with one egg (dispermy) or from the fertilization of an egg by a diploid sperm (haploid-diploid). Both scenarios involve fertilization errors during reproduction rather than the normal process of double fertilization, which involves one sperm fertilizing one egg to form a diploid zygote in plants. Double fertilization is a unique process found in flowering plants where one sperm fertilizes the egg to form the zygote, and the other sperm fertilizes the central cell to form the endosperm, which provides nourishment to the developing embryo. Triploidy resulting from double fertilization is not a typical occurrence in biological systems.
+
+![Triploidy in df](image-11.png)
+
+### Triploidy can arise by mating of a tetraploid to a diploid
+
+Triploidy can indeed arise through the mating of a tetraploid individual (with four sets of chromosomes) with a diploid individual (with two sets of chromosomes). When gametes from the tetraploid combine with gametes from the diploid during fertilization, the resulting zygote may inherit an extra set of chromosomes, resulting in triploidy.
+
+This scenario is an example of a form of polyploidy, where an organism has more than two complete sets of chromosomes. Triploidy, in this case, arises from the combination of gametes from individuals with different ploidy levels.
+
+![Triploidy](image-12.png)
+
+### In triploid meiosis chromosomes are unpaired or mispaired
+
+In triploid individuals, during meiosis, chromosomes may indeed experience pairing abnormalities. This can occur because there is an uneven number of chromosomes, making it impossible for all chromosomes to pair properly in sets of two, as occurs in normal diploid meiosis.
+
+Because there are three sets of chromosomes in triploid individuals, there might be difficulty in forming proper chromosome pairs during prophase I of meiosis. Chromosomes may either remain unpaired, leading to univalents, or they may mispair with chromosomes from different sets, forming trivalents. These pairing abnormalities can result in errors during segregation, leading to gametes with unbalanced chromosome numbers.
+
+The irregularities in chromosome pairing and segregation during meiosis in triploid individuals can contribute to reduced fertility and various developmental abnormalities in the resulting offspring.
+
+## Autopolyploidy
+
++ Autopolyploidy results from a failure of the chromosomes to seperate during meiosis. However, unlike aneuploidy, not just a single pair of chromosomes failure to seperate, all of them fail to seperate. This total non-disjunction of all chromosomes results in gametes carrying two sets of chromosomes (2n) 
+
++ When one of the resulting gametes (2n) combines with a regular haploid (n) gamete, the resulting offspring are triploid (3n).
+
++ Offspring produced in this way are normally infertile because they have an uneven number of chromosomes that won't pair correctly during meiosis. 
+
+![Autopolyploidy](image-13.png)
+
++ When two of these gametes (2n) combine, the resulting offspring are tetraploid (4n). This is common in plants as they produce both male and female gametes and are often capable of self-fertilisation. 
+
++ The resulting offspring a generally fertile as they have an number of chromosomes. If the new tetraploid offspring cannot reproduce with the parental type (diploid) plants, but can repdoduce with each other, a new species has been fromed. 
+
+<p align="center">
+<img src="https://i0.wp.com/pediaa.com/wp-content/uploads/2017/10/Difference-Between-Autopolyploidy-and-Allopolyploidy-1.png?fit=640%2C384&ssl=1" alt="Autoployploidy" width="400" height="240">
+</p>
+
+## Allopolyploidy
+
++ Allopolyploidy occurs when two closely related species mate and produce a hybrid containing chromosome sets from both parent species. 
+
++ The resulting hybrid is usually sterile because the chromosomes from each species cannot pair correctly during meiosis. The two different species involved may also contribute different numbers of chromosomes which again prevents chromosome pairing during meiosis, rendering the hybrid sterile. 
+
+<p align="center">
+<img src="https://old-ib.bioninja.com.au/_Media/allopolyploidy_med.jpeg" alt="allopolyploidy" width="400" height="158">
+</p>
+
+## Amphipolyploidy
+
++ Doubling the chromosome number in a sterile hybrid can often produce a fertile hybrid. This process is known as amphipolyploidy.
+
++ Allopolyploidy generally produces infertile hybrids because the chromosomes from each of the parent species cannot pair correctly. In this example, you can almost think of the resulting hybrid as being haploid (n) with 5 individual chromosomes rather than any chromosome pairs. However, autopolyploidy can double the chromosome number, producing a fertile hybrids with two of each chromosome.
+
++ If these new fertile hybrids cannot reproduce with the parental types, but can reproduce with each other, a new species has been formed. 
+
+<p align="center">
+<img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780123014634500097-f07-02-9780123014634.jpg" alt="Amphipolyploidy" width="400" height="137">
+</p>
+
+<p align="center">
+<img src="https://www.pathwayz.org/Node/Image/url/aHR0cHM6Ly9pLmltZ3VyLmNvbS9pVk5zMmRjaC5wbmc=" alt="Amphipolyploidy" width="400" height="908">
+</p>
+
+## Evolutionary significance
+
++ Polyploidy can cause speciation (the formation of new species)
+
++ It has played an important role in the evolution of many species, especially plant crops. 
+
+## The evolution of wheat
+
+Each hybridisation was followed by chromosome doubling in the new hybrid; this enables normal bivalent formation at meiosis and thus the production of fertile plants. The initial hybridisation, that occurred approximately 10,000 years ago, is believed to have been between the two grass species T. urartu (the A genome donor), and T. speltoides (the B genome donor). This new species would have been tetraploid (four complete genome complements) Hexaploid wheat arose as a result of a second hybridisation between the new tetraploid and a third diploid species, T. tauschii (the D genome donor). Again, chromosome doubling must have occurred in order to produce a fertile individual. This new species would then have have 42 chromosomes; that is, six complete genomes each of 7 chromosomes (This information is taken from [cerealsdb.uk.net](https://www.cerealsdb.uk.net/cerealgenomics/WheatBP/Documents/DOC_Evolution.php) page.)
+
+<p align="center">
+<img src="https://www.pathwayz.org/Node/Image/url/aHR0cHM6Ly9pLmltZ3VyLmNvbS9obmYyVnRkLnBuZz8x" width="400" height="496">
+</p>
+
+## Qualitative and quantitative traits
+
++ `Qualitative traits` are genetically controlled by one or a few major genes, each of which has a relatively large effect on the phenotype but is relatively insensitive to environmental influences.
+
+  + Trait distribution in a typical segregating population such as an F2 shows multi-peak distribution, although individuals within a category show continuous variation
+  
+  + Each individual in the population can be classified unambiguously into distinct categories that correspond to different genotypes so that they can be studied using Mendelian methods
+
++ Quantitative traits are genetically controlled by many genes, each of which has a relatively small effect on the phenotype, but is largely influenced by environmental factors
+
+  + Trait distribution in an F2 population usually shows a normal or bell-shape distribution and as a result, individuals cannot be classified into phenotypic categories that correspond to different genotypes thus making the effects of individual genes indistinguishable
+
+  + Quantitative genetics is traditionally described as the study of all these genes as a whole and the total variation observed in a population results from the combined effects of genetic (polygenes as a whole) and environmental factors
+  
+  + However, quantitative variation is not due solely to minor allelic variation in structural genes as regulatory genes no doubt also contribute to this variation
+  
+  + We expected polygenes to show allthe typical properties of chromosomal genes both in terms of action and in transmission through meiosis
+
+## Polygenic Inheritance
+
++ Quantitative characters are those that vary in the population along a continuum
+
++ Quantitative variation usually indicates polygenic inheritance, an additive effect of two or more 
+genes on a single phenotype
+
++ Grain colour in wheat where each gene promotes pigment
+production is an example of polygenic inheritance
+
++ The effects of each gene are small where uppercase and lowercase letters did not imply dominance or recessiveness but rather the additive effects of each allele
+
+<p align="center">
+<img src="https://d1j63owfs0b5j3.cloudfront.net/term/images/2143-1592948818248.png" alt="polygenic inheritance" width="400" height="400"> 
+</p>
+
+## Genetic Variation
+
++ The creation of new alelles and the mixing of alelles through recombinaiton give rise to `genetic variation` which is on eof the forces behind evolution.
+
++ Natural selection favours one phenotype over another and these phenotypes are conditioned by one or more alelles.
+
++ `Genetic variation is fundamental for selection, by which progress in plant breeding can be made`
+
++ There are various sources of genetic variation:
+
+  + Crossover, genetic drift and gene flow
+
+  + Mutation
+
+## Mutation
+
++ A mutation is any change in the sequence of the DNA encoding a gene which leads to a change in the hereditary material when an organism undergoes DNA replication
+
++ During the process of replication, the nucleotides of a chromosome are altered, so rather than creating an identical copy of DNA strands, there are chemical variations in the replicated strands
+
++ The alteration on the chemical composition of DNA triggers a chain reaction in the genetic information of an individual
+
++ The effect of a mutation depends on its size, location (intron or exon etc.), and the type of cell in which the mutation occurs
+
++ Large changes involve the loss, addition, duplication or rearrangement of whole chromosomes or chromosome segments
+
++ Most DNA polymerases have the ability to proofread their work to ensure that the unaltered genetic material is transferred to the next generation
+
+### Mutation Types
+
++ `Point Mutation:` represent the smallest changes where only a single base is altered
+
+  + For example, a snigle nucleotide change may result in the change of an amino acid (aa) codon into a stop codon and thus produce a change in the phenotype. 
+
+  + Point mutation do not usually benefit the organism as `most occur in recessive genes` and are not usually expressed unless two mutations occur at the same locus
+
++ `Synonymous or silent substitutions:` The sea sequence of the protein is not changed because several codons can code for the same aa, and in non-synonymous substitutions changes in the aa sequenc may not affect the function of the protein.
+
++ `Loss-of-function mutations:` Wild type alelles typically encode a product necessary for a specific biological function and if a mutation occurs in that alelle, the function for which it encodes is also lost. 
+
+  + They are typically recessive
+
+  + The degree to which the function is lost can vary
+
+    + If the function is entirely lost, the mutation is called a `null mutation`
+
+    + It is also possible that some function may remain, but not at the level of the wild-type alelle, these are known as `leaky muatations`
+
++ `Gain-of-function mutations:` 
+a small number of mutations are actually benefical to an organism providing new or improved gene activity.
+
+  + In these cases, the mutation creates a new alelle that is associated with a new function.
+
+  + Any heterozygote containing the new alelle along with the original wild-type alelle will express the new alelle.
+
+  + Genetically this will define the mutation as a dominant
+
++ `Substitution:` is a mutation in which one base is exchanged for another. Such a substitution could change:
+
+  + a codon to one that encodes a different aa thus causing a small change in the protein produced
+  
+  + a codon to one that encodes the same aa resulting in no change in the protein produced
+  
+  + an aa-coding codon to a single ‘stop’ codon resulting in an incomplete protein
+
++ `Insertions/deletions (indels):` produce changes by deleting or inserting sections of DNA into the ‘parental’ DNA sequence
+
+  + Because it is usually impossible to say whether a sequence has been deleted from one plant or inserted into another, these differences are called indels
+  
+  + Obviously the deletion of part of a gene can seriously affect the phenotype of organisms
+  
+  + Insertions can be disruptive if they insert themselves into the middle of genes or regulatory regions
+
+`Frame-shift mutation:` A mutation in which one nucleotide is changed causing all the codons to its right to be altered
+
+  + Since protein-coding DNA is divided into codons of three bases long, insertions and deletions of a single base can alter a gene so that its message is no longer correctly parsed
+  
+  + As a result, a single base change can have a dramatic effect on a polypeptide sequence
+
++ `Germinal mutations:` Mutations which occur in germ line cells including both the gametes and the cells from which they are formed
+
+  + A single germ line mutation can have a range of effects:
+  
+    + no phenotypic change; mutations in junk DNA are passed on to the offspring but have no obvious effect on the phenotype; 
+    
+    + small (or quantitative) phenotypic changes
+    
+    + significant phenotypic change
+
++ `Somatic mutation:` Mutations in somatic cells which give rise to all non-germ line tissues, only affect the original individual and cannot be passed on to the progeny.
