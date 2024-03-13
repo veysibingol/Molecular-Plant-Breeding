@@ -232,10 +232,6 @@ Migration from one popular place to another is also responsible for a change in 
 
   + produce uniform plants
 
-<p align="center"> 
-<img src="https://www.researchgate.net/profile/Christine-Arncken/publication/279507458/figure/fig6/AS:668868196446219@1536482013550/Heterosis-and-inbreeding-depression-in-maize-Source-after-Becker-1993-p-146_W640.jpg" alt="inbreeding" width="300" height="220">
-</p>
-
 + **Hybridization:** Hybridization occurs when inbreed parents are mated (cross pollinated)
 
   + creates heterozygous individual
@@ -675,11 +671,19 @@ a small number of mutations are actually benefical to an organism providing new 
   
   + Insertions can be disruptive if they insert themselves into the middle of genes or regulatory regions
 
+<p align="center">
+<img src="https://microbenotes.com/wp-content/uploads/2018/10/Types-of-Mutations.jpg" alt="types_of_mutations" width="600" height="310">
+</p>
+
 `Frame-shift mutation:` A mutation in which one nucleotide is changed causing all the codons to its right to be altered
 
   + Since protein-coding DNA is divided into codons of three bases long, insertions and deletions of a single base can alter a gene so that its message is no longer correctly parsed
   
   + As a result, a single base change can have a dramatic effect on a polypeptide sequence
+
+<p align="center">
+<img src="https://www.genome.gov/sites/default/files/media/images/tg/Frameshift-mutation.jpg" alt="frameshift mutation" width="600" height="337">
+</p>
 
 + `Germinal mutations:` Mutations which occur in germ line cells including both the gametes and the cells from which they are formed
 
@@ -692,3 +696,14 @@ a small number of mutations are actually benefical to an organism providing new 
     + significant phenotypic change
 
 + `Somatic mutation:` Mutations in somatic cells which give rise to all non-germ line tissues, only affect the original individual and cannot be passed on to the progeny.
+
+<p align="center">
+<img src="https://www.codexgenetics.com/blog/images/30-somatic-mutation-and-germline-mutation%20(eng).png" alt="germline and somatic mutation" width="500" height="281">
+</p>
+
+
+
+
+
+
+
