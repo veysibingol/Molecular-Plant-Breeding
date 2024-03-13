@@ -233,7 +233,7 @@ Migration from one popular place to another is also responsible for a change in 
   + produce uniform plants
 
 <p align="center"> 
-<img src="https://www.researchgate.net/profile/Christine-Arncken/publication/279507458/figure/fig6/AS:668868196446219@1536482013550/Heterosis-and-inbreeding-depression-in-maize-Source-after-Becker-1993-p-146_W640.jpg" alt="inbreeding" width="300" height="253">
+<img src="https://www.researchgate.net/profile/Christine-Arncken/publication/279507458/figure/fig6/AS:668868196446219@1536482013550/Heterosis-and-inbreeding-depression-in-maize-Source-after-Becker-1993-p-146_W640.jpg" alt="inbreeding" width="300" height="220">
 </p>
 
 + **Hybridization:** Hybridization occurs when inbreed parents are mated (cross pollinated)
