@@ -672,7 +672,7 @@ a small number of mutations are actually benefical to an organism providing new 
   + Insertions can be disruptive if they insert themselves into the middle of genes or regulatory regions
 
 <p align="center">
-<img src="https://microbenotes.com/wp-content/uploads/2018/10/Types-of-Mutations.jpg" alt="types_of_mutations" width="600" height="310">
+<img src="https://microbenotes.com/wp-content/uploads/2018/10/Types-of-Mutations.jpg" alt="types_of_mutations" width="500" height="258">
 </p>
 
 `Frame-shift mutation:` A mutation in which one nucleotide is changed causing all the codons to its right to be altered
@@ -682,7 +682,7 @@ a small number of mutations are actually benefical to an organism providing new 
   + As a result, a single base change can have a dramatic effect on a polypeptide sequence
 
 <p align="center">
-<img src="https://www.genome.gov/sites/default/files/media/images/tg/Frameshift-mutation.jpg" alt="frameshift mutation" width="600" height="337">
+<img src="https://www.genome.gov/sites/default/files/media/images/tg/Frameshift-mutation.jpg" alt="frameshift mutation" width="500" height="281">
 </p>
 
 + `Germinal mutations:` Mutations which occur in germ line cells including both the gametes and the cells from which they are formed
@@ -692,7 +692,7 @@ a small number of mutations are actually benefical to an organism providing new 
     + no phenotypic change; mutations in junk DNA are passed on to the offspring but have no obvious effect on the phenotype; 
     
     + small (or quantitative) phenotypic changes
-    
+    >
     + significant phenotypic change
 
 + `Somatic mutation:` Mutations in somatic cells which give rise to all non-germ line tissues, only affect the original individual and cannot be passed on to the progeny.
@@ -700,6 +700,202 @@ a small number of mutations are actually benefical to an organism providing new 
 <p align="center">
 <img src="https://www.codexgenetics.com/blog/images/30-somatic-mutation-and-germline-mutation%20(eng).png" alt="germline and somatic mutation" width="500" height="281">
 </p>
+
+# LECTURE 3
+
+## Plant Reproductive System
+
+### Plant Reproduction
+
++ **Reproduction** is the process by which plants multiply themselves
+
++ The mode of reproduction determines the `method of breeding` the species and `how the product of breeding is miantained for product identity preservation`
+
++ In the past plant breeding methods were farily distinct for `self-pollinated species` and for `cros-pollinated species`, such a clear distinction does not currently exist.
+
+<p align="center">
+<img src="https://images.collegedunia.com/public/image/dc9700cf13d954eca2c0c00cda19c4c2.jpeg" alt="self and cross pollination" width="500" height="500">
+</p>
+
+### Types of Reproduction:
+
++ plants are generally classified into two groups based on mode of reproduction as either *sexually reproducin* or *asexsually reproduction* 
+
+  + ***sexual reproduction***
+    
+    + Seedlings produced after ***sexual union (fertilizaiton**) involving the fusion of sex cells or gametes
+
+    + ***gametes*** are products of meiosis and, consequently, ***seeds are genetically variable*** 
+
+    + Two processes must occur in sexually reproducing species
+
+      + The first process, *meiosis*, reduces the chromosome number of the diploid (2n) cellt o the haploid (n) number.
+
+      + The second process, *fertilization* unites the nuclei of two gametes, each with the haploid number of chromosomes, to form a diploid. 
+
+<p align="center">
+<img src="https://online-learning-college.com/wp-content/uploads/2022/05/Sexual-reproduction-in-flowering-plants--768x717.jpg" alt="Plant_production_system" width="500" height="466"> 
+</p>
+
+  + ***Asexual or vegetative reproduction***
+
+    + Any vegetative part of the plant is used for propagation
+
+    + Some plants produce modified parts such as creeping stems (stolons and rhizomes), bulbs, or corns, which are used for thier propagation. 
+
+    + Asexual reproduction is also applied to the condition whereby seed is produced without fusion of gametes (called apomixis, dandalion plants).
+
+<p align="center">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230711111133/Types-of-Natural-Vegetative-Propagation.png" alt="asexual reproduction" width="500" height="264">
+</p>
+
+### Overview of Reproductive Options in plants
+
++ Four broad contrasting pairs of reproductive mechanisms or options occur in plants:
+
+  + ***Hermaphrodity versus Unisexuality***
+
+    + Hermaphrodites have both male and female sexual organs and hence may be capable of self fertilization; On the other hand, unisexuals having one kind of sexual organ, are compelled to cross-fertilize.
+
+    + Each mode of reproduction has genetic consequences, hermaphrodity promoting a reduction in genetic variability, whereas unisexuality,through cross-fertilization, promotes genetic variability
+
+  + ***Self pollination versus cross-pllination***
+
+    + `Hermaphrodites that are self fertile may be self pollinated or cross pollinated `
+
+    + In terms of pollen donation, a species may be `autogamous` (pollen comes from the same flower selfing), or `allogamous` (pollen comes from a different flower)
+
+    + There are finer differences in these types. For example, there may be differences between `the time of pollen shed and stigma receptivity`
+
+  + ***Self Fertilizaiton Versus Cross Fertilizaiton***  
+
+    + Just because `a flower is succesfully pollinated does not necessaryly mean fertilizaiton will occur`
+
+    + The mechanism of self incompatibility causes some species to reject pollen from thier own flowers, thereby promoting outcrossing. 
+
+  + ***Sexuality versus asexuality***
+
+    + Sexually reproducing species are capable of providing seeds hrough sexual means
+
+    + Asexuality manifests in one of two ways- `vegetative reproduction` (in which no seed is produced) or **`Agamospermy`** (in which seed is produced without fertilizaiton)
+
+<p align="center">
+<img src="https://www.dummies.com/wp-content/uploads/362063.image1.jpg" alt="plant_reproductice_cycle" width="400" height="386">
+</p>
+
+### The Plant Breeder Should Know the Life Cycle of the plant to be Manipulated
+
++ Angiosperms (flowering plants) may be classified into four categories based on the duration of their growth cycle as follows:
+
++ **Annuals:**
+
+  + Annual plants complete their life cycle in one growing season.
+
+  + Examples of such plants include corn, wheat and sorghum, Annuals may be further categorized into winter annuals or summer annuals.
+
+  + Winter annuals utilize parts of two season; they are planted in fall and undergo a critical physiological inductive change called `vernalizaiton` that is required for flowering and fruiting in spring
+
+  + In cultivaiton, certain non-annuals are produced as thought they were annuals. 
+
+<p align="center">
+<img src="https://extension.oregonstate.edu/sites/default/files/styles/full/public/images/2019-01/annuals.gif?itok=pax_lc3Y" alt="annual_life_cycle" width="250" height="250">
+</p>
+  
++ **Biennials**
+
+  + A biennial completes its life cycle in two seasons
+
+  + In the first season, it produces basal roots and leaves; then it grows a stem, produces flowers and fruits, and dies in the second season. 
+
+  + The plant usually requires a special environmental condition or treatment (e.g vernalizaiton) to be induced to enter the reproductive phase.
+
+    + For example, sugar beet grows vegetatively in the first season. In winter, it becomes vernalized and starts reproductive growth in spring. 
+
+<p align="center">
+<img src="https://extension.oregonstate.edu/sites/default/files/styles/full/public/images/2019-01/biennials.gif?itok=5Dd5gTvg" alt="annual_life_cycle" width="250" height="250">
+</p>
+
++ **Perennials**
+
+  + `Perennials are plants that have the ability to repeat their life cycles indefinitely by circumventing the death stage`
+
+  + They may be herbaceous, as in species with underground vegetative structures called `rhizomes` (e.g., indiangrass) or aboveground structures called `stolons` (e.g., buffalograss)
+
+  + They may also be woody as in shrubs, vines (grape), and trees (orange).
+
+<p align="center">
+<img src="https://extension.oregonstate.edu/sites/default/files/styles/full/public/images/2019-01/biennials.gif?itok=5Dd5gTvg" alt="annual_life_cycle" width="250" height="250">
+</p>
+
+
++ **Monocarps**
+
+  + Monocarps are characterized by repeated, long vegetative cycles that may go on for many years without entering the reproductive phase.
+
+  + Once flowering occurs, the plant dies
+
+  + Common examples are bromeliads
+   
+  + The top part dies, so that new plants arise from the root system of the old plant.
+
++ Certain plants that mey be natural biennials and perennials are cultivated by producers as annuals.
+
+  + For example, suagr beet, a biennials, is commercially produced as an annual for its roots. For breeding purpose it is allowed to bolt to produce flowers for crossing, and subsequently to produce seed. 
+
+### Flower Structure
+
++ Genetic manuplation of flowering plants by conventional tools is accomplished by the technique of crossing, which involves flowers. 
+
++ To be succesfully, the plant breedeer should be familiar with the flower structure, regaring the parts and their arrangement. 
+
++ Flower structure affects the way flowers are `emasculated` (prepared for croosing by removing the male parts to make the flower female)
+
++ The size of the flower affects the kinds of tools and techniques that can be used for crossing. 
+
++ The typical flower has four basic parts `The petals,sepals, pistil, and stamen.`
+
++ `The shape, size, color, and other aspects of these floral parts differ widely among species.`
+
+<p align="center">
+<img src="https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/learn-teach/parts-of-a-flower/762007-1-eng-US/parts-of-a-flower_full_610.png" alt="flower_structure" width="500" height="272">
+</p>
+
+### Flower types:
+
++ **Complete Flowers:** Whan a flower has all the four major parts.
+
++ **Incomplete flower:** If a flower lacks certain parts (often petals or sepals), as is the case in many grasses (e.g. rice,corn, wheat)
+
++ **Perfect Flower (bisexual):** When both stamens and a pistil occur in the same flower as in wheat, tomato and soybean. 
+
++ **Imperfect flowers (unisexual):** When flowers have either stamens or pistil.
+
+  + If imperfect flowers have stamens they are called `staminate flowers`
+
+  + When only a pistil occurs, the flower is a `pistilate flower.`
+
+  + A plant such as corn bears both staminate (tassel) and pistilate (silk) flowers on the same plant and is said to be a `monoecious plant`
+
+  + However in species such as asparagus, kivi and papaya, plants may be either be pistilliate (female plant) or staminate (male plant) and are said to be `Dioecious plants`
+
+  + Flowers may either be `solitary` (occur singly or alone) or may be grouped together to form an `Inflorescene.` An inflorescene has aprimary stalk (peduncle) and numerous secondary smaller stalks (pedicles).
+
+    + The most common inflorescence types in crop are the `cyme (determinate inflorescene)` and `recame (indeterminate inflorescene).` A branched recame is called a `panicle (e.g., oats)` while a recame with sessile (short pedicles) is called a `spike (e.g wheat).`
+
+<p align="center">
+<img src="https://www.shutterstock.com/shutterstock/photos/106353851/display_1500/stock-vector-types-of-inflorescence-106353851.jpg" alt="Types_of_Infloroscene" width="400" height="322">
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
