@@ -886,6 +886,330 @@ a small number of mutations are actually benefical to an organism providing new 
 <img src="https://www.shutterstock.com/shutterstock/photos/106353851/display_1500/stock-vector-types-of-inflorescence-106353851.jpg" alt="Types_of_Infloroscene" width="400" height="322">
 </p>
 
+### Gametogenesis
+
++ sexual reproduction entails the transfer of gametes to specific female structures where they unite and are then transformed into an embriyo, a miniature plant 
+
++ Gametes are formed by the process of `gametogenesis`
+
++ They are produced from specialized diploid cells called `microscope mother cells` in *anthers* and `megaspore möother cells` in the *ovary*. 
+
++ Microspores derived from the mother cells are haploid cells each dividing `by mitosis` to produce an immature `male gametophyte` (pollen grain).
+
++ most pollen is shed in the two cell stage, even though sometimes, as in grasses, one of the cells later divides again to produce `two sperm cells`.
+
++ In the ovule, four megaspore are similarly produced `by meiosis`
+
++ The nucleus of the functional megasporedivides `three times by mitosis` to produce eight nuclei, one of which eventually becomes `egg.`
+
++ The `female gametophyte` is the seven celled, eight nucleate structure called the `embriyo sac.`
+
++ Two free nuclei remain in the sac.
+
++ These are called `polar nuclei` because they originate from opposite ends ofthe embriyo sac.
+
+<p align="center">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41477-019-0466-0/MediaObjects/41477_2019_466_Fig2_HTML.png?as=webp" alt="gametogenesis" width="500" height="436">
+</p>
+
++ ***Gametogenesis in plants*** **results in the production of pollen and egg cells.** 
+
++ pollen is transported by agents to the stigma of the female flower, from which it travels to the egg cell to unite with it. 
+
+### Pollination and Fertilization
+
++ ***Pollination*** is the transfer of pollen grains from the anther to the stigma of a flower
+
++ This transfer is achieved through a vector or pollination agent such as wind, insects, mammals, and birds
+
++ Flowers have certain features that suit the various pollination mechanisms
+
++ When compatible pollen falls on a receptive stigma, a pollen tube grows down the style to the micropylar end of the embryo sac, carrying two sperms or male gametes
+
++ The tube penetrates the sac through the `micropyle`
+
++ One of the sperms unites with the egg cell, a process called `fertilization`
+
++ The other sperm cell unites with the two polar nuclei (called `triple fusion`)
+• The simultaneous occurrence of two fusion events in the embryo sac is called `double fertilization`
+
++ On the basis of pollination mechanism, plants may be grouped into two `mating system:`
+
+  + ***Self-Pollinated:*** Self pollinated species accept pollen primarly from the anthers of the same flower (autogamy). The flowers, of neccesity, must be `bisexual.`
+
+  + ***Cross-pollinated:*** Cross pollinated species accept pollen from different sources. In actuality, species express varying degrees of cross pollination, ranging from lack of cross pollination to complete cross-pollination.
+
+<p align="center">
+<img src="https://cdn.britannica.com/88/95388-050-3C841D57/process-cross-pollination-animal-pollinator.jpg" alt="cross_pollination" width="500" height="250">
+</p>
+
+### Mechanism that Promote self-Pollinaiton
+
++ Certain natural mechanisms promote or ensure self pollinaiton.
+
+  + ***`Cleistogamy`*** is the condition in which the flower fails to open.
+
+  + ***`Chasmogamy`*** is a condition in which the flower opens only after it has been pollinated (as occurs in wheat, barley, and lettuce)
+
+  + Some floral structures such as those found in legumes, favor self pollination
+
+    + Sometimes, the stigma of the flower is closely surrounded by anthers, making it prone to self. 
+
++ Very few species are completely self pollinated. 
+
++ The level of self pollinaiton is affected by factors including the nature and amount of insect pollination, air current, and temperature. 
+
++ In certsain species, pollen may become *sterilized* when the temperature dips below freezing. 
+
++ Any flower that opens prior to self pollination is susceptible to some cross-pollination. 
+
++ ***Some flowers can self-Fertilize to ensure that ovule will develop into a seed.***
+
+### Genetic and Breeding Implicaitons of Self-Pollinaiton
+
++ Self-pollination is considered the highest ***degree of inbreeding*** a plant can achieve
+
++ Self-pollination restricts the creation of new gene combinations (no introgression of new genes through **hybridization).**
+
++ New genes may arise through mutation (which are usually recessive), are exposed through homozygosity, for the breeder or nature to apply the appropriate selection pressure on 
+
++ <u>Repeated selfing has no genetic consequence in self-pollinated species (no inbreeding depression or loss of vigor following selfing)</u>
+
++ Similarly, **self-incompatibility** does not occur
+
++ Because a self-pollinated cultivar is generally one single genotype reproducing itself, breeding self-pollinated species usually entails identifying one superior genotype (or a few) and multiplying it
+
++ Specific breeding methods commonly used for self-pollinated species are <u>pure-line selection, pedigree breeding, bulk populations, and backcross breeding.</u>
+
+ ### Mechanisms that Favor Cross-Pollination
+
+ + Several mechanisms occur in nature by which cross pollination is ensured, the most effective being ***dioecy***
+
+   + As previously noted, dioecious species are those in which a plant is either female or male but not a hermaphrodite (e.g., hemp, date, palm)
+   
+   + When such species are cultivated from grain or fruit, it is critical that the producer provides pollinator rows.
+
++ A less stringent mechanism is **monoecy** (i.e. monoecious plants)
+
+  + Monoecious species can receive pollen from their own male flowers
+
++ **Dichogamy** occurs in hermaphroditic flowers, whereby cross-pollination may be enforced when the stamens mature before the pistil is mature and receptive (a condition called protandry) or the reverse (called **protogyny**).
+
++ Sometimes, the pollen from a flower is not tolerated by its own stigma, a condition known as 
+**self-incompatibility.**
+
++ **Male sterility**, the condition whereby the pollen of the male is sterile, compels the plant to receive pollen from different flowers
+
++ Similarly, a condition called **heterostyly** is one in which significant difference in the lengths of the stamen and pistil makes it less likely for self-pollination to occur, and thereby promotes cross-pollination
+
++ <u>Cross-pollinated species depend on agents of pollination, especially wind and insects. </u>
+
+<p align="center">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-86de0abe5411252e58fd5de7c757c5a5-lq" alt="preventing-self-Pollination" width="500" height="456">
+</p>
+
+### Genetic and Vreeding Implications of Cross-Pollinaiton
+
++ The genetic structure of a cross-pollinated species is characterized by **heterozygosity**
+
++ *Self-incompatibility* occurs in such species
+
++ Unlike self-pollinated species in which new gene combinations are prohibited, cross-pollinated species share a wide gene pool from which <u>new combinations are created to form the next generation. </u>
+
++ When cross-pollinated species are selfed, they suffer ***inbreeding depression***
+
++ <u>Deleterious recessive alleles that were suppressed because of heterozygous advantage. </u>
+
++ **Hybrid vigor** (the increase in vigor of the hybrid over its parents resulting from 
+crossing unlike parents) is exploited in hybrid seed production. 
+• Population-based improvement methods (e.g., **mass selection, recurrentselection, synthetic cultivars**) are common methods of breeding cross-pollinated species
+
+### Heterosis (Hybrid Vigor)
+
++ Heterosis occurs when two homozygous individuals are cross pollinated
+
+  + This causes all loci to become heterozygous
+
+  + The increased heterozygosity causes increased plant vigor
+
++ Benefits of increased vigor
+
+  + Increased yield
+
+  + Better standability
+
+  + Better germinaiton
+
+  + Overall better plant performance
+
+### Asexual reproduction
+
++ Asexual reproduction may be categorized into two:
+
+  + vegetative propagation
+
+  + apomixis
+
++ Asexual reproduction is also called **clonal propagation** because the products are genetically identical to the propagules. 
+
++ Certain species may be reproduced by using various vegetative parts including **bulbs, corms, rhizomes, stems, and buds.**
+
++ Vegetative propagation is widely used in the horticultural industry
+
++ Pieces of vegetative materials called **cuttings** are obtained from parts of the plan (e.g., root, stem, leaf ) for planting
+
++ Potato, cassava, sugarcane, rose, grape, and some perennial grasses are frequently propagated by stem cuttings
+
++ Methods such as <u>grafting and budding are used for propagating tree crops,</u> where two different plant parts are united <u>by attaching one to the other and securing with a tape.</u>
+
++ Numerous plantlets may be generated from a small piece of vegetative material (e.g., a segment of a leaf) by the technique of **micropropagation.**
+
++ The **tissue culture** technique is used to rapidly multiply planting material under aseptic conditions
+
++ <u>Perennial horticultural species tend to be clonally propagated, whereas annuals and 
+biennials tend to be propagated by seed.</u>
+
++ Clonally propagated crops may be divided into two broad categories on the basis of economic use:
+
+  + **Those cultivated for a vegetative product**
+  
+    + Important species vegetatively cultivated for a vegetative product include sweet potato, yam, cassava, sugarcane, and Irish potato
+    
+    + These species tend to exhibit certain reproductive abnormalities
+    
+    + For example, flowering is reduced, and so is fertility. Some species such as potatoes have **cytoplasmic male sterility**
+    
+    + Sometimes, flowering is retarded (e.g., by chemicals) in production (e.g., in sugarcane)
+    
+  + **Those cultivated for a fruit or reproductive product**
+  
+    + Plants in this category include fruit trees, shrubs, and cane fruit
+    
+    + Examples include apple, pear, grape, strawberry, and banana
+
+### Breeding Implicaitons of Vegetative Propagation
+
++ Clonal sepecies with viable and high pollen fertility can be improved by hybridizaiton. 
+
++ <u>Clonal breeding is quick compare</u> to hybridizaiton of sexual species, which often requires additional steps to fix the genetic variability in a genotype. 
+
++ When improving species whose economic parts are vegetative products, it is not important for the hybrid to be fertile. 
+
++ <u>The breeder only needs to obtain a single desirable plant to be used as stock</u> because of the capacity to multiply from vegetative material (through methods such as cuttings or micropropagation),
+
++ <u>Once bred a hybrid, heterozygosity is maintained indefinitely.</u> 
+
++ It is more difficult to obtain large quantities of planting material from clones in the short term. 
+
++ Plant speciesthat are <u>vegetatively parthenocarpic</u> cannot be improved by hybrid methodology.
+
++ Species such as mango and citrus produce **polyemryonic seedlings.** This reproductive irregularity complicates breeding because clones of the parent are mixed with hybrid progeny. 
+
++ Clonal crpos are **perennial outcrossers** and **intolerant of breeding.** They are highly **heterozygous.**
+
++ unlike sexual crop breeding in which the genotype of the cultivator is determined at the end of the breeding process (because it changes with inbreeding), the genotype of a family is fixed and determined at the outset. 
+
++ Both **general combining ability (GCA)** and **specific combining ability (SCA)** (that is, performance in corsses) can be fully exploited with appropriate breeding method and population sizes. 
+
+### Apomixis
+
++ Seed production in higher plants that are sexually propogated species normally occurs after a sexual union in which male and female gametes fuse to form a `zygote`, which then develops into an `embriyo`.
+
++ However, some species have the naturaş ability to develop seed without fertilizaiton, a phenomenon called `apomixis.`
+
++ The consequence of this event is that <u>apomictically produced seeds are clones of the mother plant. </u>
+
++ That is, <u>apomixis is the asexual production of seed.</u>
+
++ Unlike sexual reproduction, <u>there is no opportunity in apomixis for new recombinaiton to occur to produce diversity  in the offspring.</u>
+
++ `Apomixis is widespread in nature`, having been found in unrelated plant families
+
++ However, it is infrequent in occurrence
+
++ About 10% of the estimated 400 plant families and a mere 1% of the estimated 40,000 species they comprise exhibit apomixis
+
++ The plant families with the highest frequency of apomixis are Gramineae (Poaceae), Compositae, Rosaceae, and Asteraceae
+
++ Many species of citrus, berries, mango, perennial forage grasses, and guayule reproduce
+apomictically
+
++ Some species can produce both sexual and apomictic seeds and are called `facultative apomicts` (e.g., bluegrass, Poa pratensis)
+
++ Species such as bahiagrass (Paspalum notatum) reproduce exclusively or nearly so by apomixis and are called `obligate apomicts`.
+
+### There are several indicators of apomixis
+
++ When the progeny from a cross in a cross-pollinated (heterozygous) species fails to segregate, appearing uniform and identical to the mother plant, this could indicate obligate apomixis.
+
++ Similiarly, when plants expected to exhibit high sterility (e.g., aneuploids, triploids) instead showsignificantlyhigh fertility, apomixis could be the cause. 
+
++ Obligate apomicts may display multiple floral features (e.g., multiple stigmas and ovules per floret, double or fused ovaries), or multiple seedlings per seed
+
++ Facultative apomixis may be suspected if the progeny of a cross shows an unusually high number of identical homozygous individuals that resemble the mother plant in addition to the presence of individuals that are clearly different (hybrid products)
+
++ To confirm the occurrence of apomixis and discovery of its mechanisms requires additional progeny tests as well as cytological tests of megasporogenesis and embryo sac development.
+
+### Benefits of Apomixis
+
+#### Benefits to the plant breeder
+
++ <u>Apomixis is a natural process of cloning plants through seed.</u>
+
++ As a breeding tool, it allows plant breeders to develop hybrids that can <u>retain 
+their original genetic properties</u> indefinitely with repeated use, without a need to reconstitute them
+
++ In other words, <u>hybrid seed can be produced from hybrid seed.</u>
+
++ The plant breeder does not need to make crosses each year to produce the hybrid
+
++ This advantage accelerates breeding programs and reduces development costs of hybrid cultivars
+
++ Apomixis is greatly beneficial <u>when uniformity of product is desired.</u>
+
++ Breeders can use this tool to quickly fix superior gene combinations
+
++ That is, vigor can be duplicated, generation after generation without decline
+
++ Commercial hybrid production can be implemented for species without fertility control mechanisms (e.g., male-sterility system), neither is there a need for isolation in F1 hybrid seed production.
+
++ <u>There is no need to maintain and increase parental genotypes</u>; cultivar evaluation can proceed immediately following a cross.
+
++ The plant breeders will divert the resources saved (time, money) into other creative breeding ventures. 
+
+  + For example, cultivars could be develped for smaller and more specific production environments. 
+
++ More parental stock could be developed ro reduce the risk of <u>genetic vulnerability</u> through the use of a few <u>elite genetic stocks</u> as parents in hybrid development. 
+
++ There are some plant breeding concerns associated with apomixis. 
+
+  + Species that exhibit facultative apomixis are more challenging to breed because they produce both sexual and apomitic plants in the progeny.
+  
+  + <u>Obligate apomicts are easier to breed by conventional methods</u> provided compatible (asexually reproducing) counterparts can be found.
+
+#### Benefits to the producer
+
++ The most obvious benefit of apomitic cultivars to crop producers is the ability <u>to save seed from their field harvest of hybrid cultivars for planting the next season.</u>
+
++ Because `apomixis fixes hybrid vigor`, the farmer does not need to purchase fresh hybrid seed each season.
+
++ This especially benefits the producer in poor economies, who often cannot afford the high price of hybrid seed. Apomixis, as previously indicated, accelerates plant breeding.
+
++ This could translate into less expensive commercial seed for all producers.
+
++ Realistically, such benefits will materialize only if commercial breeders can make an acceptable profit from using the technology.
+
+### Impact on the Environment
+
+
+
+
+
+
+
+
+
+
 
 
 
