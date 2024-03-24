@@ -1201,29 +1201,323 @@ their original genetic properties</u> indefinitely with repeated use, without a 
 
 ### Impact on the Environment
 
++ Some speculate that apomixis has the potential to <u><p style=" color:darkgreen;">reduce biodiversity because it produces clonal cultivars and hence uniform populations that are susceptible to disease epidemics.</p></u>
 
++ However, others caution that the suspected reduction in biodiversity would be minimal since apomixis occurs naturally polyploids, which occur less frequently than diploids. 
 
+### Mechanism of Apomixis
 
++ Apomixis arises by a numöber of mechanisms of which four major ones that differ according to origin (the cell that undergoes mitosis to produce the embriyo) are discussed next. 
 
++ Seed formaiton without sexual union is called <u><p style="color:gold;">agamospermy,</p></u> a mechanism that can be summarized into two categories: <u><p style="color:purple;">gametophytic apomixis and adventitious apomixis.</p></u>
 
++ There are two types of gametophytic apomixes:
 
+  + apospory
 
+  + diplospory
 
+#### Apospory:
 
++ This is the most common mechanism of apomixis in higher plants. It is type of <p style="color:pink;">agamospermy</p> that involves the nuclear tissue which surrounds the megagametophyte can produce additional embriyos. 
 
++ The somatic cells of the ovule divide mitotically to form unreduced (2n) embriyonic sacs.
 
++ The megaspore or young emriyo sac aborts, as occurs in species such as Kentucky bluegrass
 
+#### Diplospory:
 
++ An <p style="color:red;">unreduced megaspore mother cell produces embriyo sacs following mitosis instead of meiosis.</p>
 
++ This cytological event occurs in species such as *tripsacum*
 
+#### Adventitious embryo
 
++ Unlike apospory and diplospory in which an embriyo sac is formed, no embriyo sac is formed in adventitious embryony.
 
++ Instead, <p style="color:orange;"> the source of the embriyo could be somatic cells of the ovule, integuments, or ovary wall</p>
 
++ This mechanism occurs commonly in citrus but rarely in other higher plants. 
 
+<p align="center">
+<img src="https://www.researchgate.net/profile/Siddhi-Baskaware/publication/366996371/figure/fig1/AS:11431281112740124@1673534564737/Various-types-of-apomictic-pathway-in-flowering-plants-normal-sexual-pathway_W640.jpg" alt="Type of apomixis" width="400" height="405"></p>
 
+#### Parthenogenesis:
 
++ This mechanism is essentially equivalent to haploidy
 
++ The reduced (n) egg nucleus in a sexual embriyo sac develops into haploid embriyo without fertilizaiton by the sperm nucleus. 
 
+### Maize x Tripsacum Hybridizaiton and the Transfer of Apomixis: Historical Review
 
++ One of the most interesting instances of intergeneric hybridization involves hybridizing maize (Z. mays L.)(2n=2x=20) with its distant relative eastern gamagrass *(T.dactyloides)* (2n=4x=72)
+
++ Regardless of thier complete difference in chromosome number, plant phenotype, and environmental niche, hybrids are relatively easy to generate.
+
++ <p style="color:gold;">The F1 hybrids completely pollen-sterile and microsporogenesis is asscoiated with a varying array of <u>meiotic anomalies</u></p>
+
++  <p style="color:brown;">The hybrids vary in seed fertility ranging from completely sterile to highly seed-fertile</p>
+
++ To date, all seed-fertile hybrids generated from tetraploid *T. dactyloides* exhibit some level of apomictic expression; however, backcrossing with maize commonly results in the loss of apomixis. 
+
+### Constraints of Sexual Biology in Plant Breeding
+
++ Some constraints of sexual biology are exploited as tools for breeding plants
+
++ These include:
+
+  + Dioecy
+
+  + monoecy
+
+  + Self-incompatibility
+
+  + male sterility
+
+### Pollination Control
+
++ A critical aspect of crossing is<p style="color:green;">pollination control to ensure that only the desired polen is involved in the cross</p>
+
++ Pollination control may be accomplished in three general ways:
+
+  + **Mechanical control:** Manually removing anthers from bisexual flowers to prevent pollination, a technique called <u>emasculation</u>, or <u>removing one sexual part (e.g., detaselling in corn),</u> or <u>excluding unwanted pollen by covering the female part</u>
+
+  + **Chemical Control:** a variety of chamicals called chemical hybridizing agents or other names (e.g., male gametocides, male sterilants, pollenocids, andorcides) are used to <p style="color:blue;">temporally induce male sterility</p> in some species. 
+
+  + **Genetic Control:** Certain genes are known to impose constraints on sexual biology by incapacitating the sexual organ (as in male sterilty) or inhibitng the union of normal gametes (as in self-incompatibility).
+
+### Dioecy and Monoecy
+
++ Some flowers are **complete** while others are **incomplete**
+
++ When separate male and female flowers occur on the same plant, the condition is called **<u>monoecy</u>**
+
++ When the sexes occur on different plants (i.e., there are female plants and male plants), the conditions is called **<u>dioecy</u>**
+
++ Examples of dioecious species include date, hops, asparagus, spinach, and hemp
+
++ The separation of the sexes means that all seed from dioecious species are hybrid in composition
+
++ Where the economic product is the seed or fruit, it is imperative to have female and male plants in the field in an appropriate ratio. <p style="color:gray;">In orchards, 3–4 males per 100 females may be adequate</p>
+
++ <p style="color:"red;">In hops, the commercial product is the female inflorescence; Unfertilized flowers have the highest quality</p>; Consequently, it is not desirable to grow pollinators in the same field when growing hops.
+
+### Self-incompatibility
+
++ Self-incompatibility (or lack of self-fruitfulnes) is a condition in which the pollen from a flower is not receptive on the stigma of the same flower ans hence is incapable of setting seed.
+
++ This happens in spite of the fact that both pollen and ovule development are normal and viable
+
++ It is caused by a <p style="color=red;">genetically controlled</p> physiological barriers to self-fertilization. 
+
++ Self-incompatibility is widespread in anture, occuring in families such as poaceae, cruciferaei compositae, and rosaceae
+
++ The incompatibility reaction is genetically conditioned by a locus designated S, with multiple alleles that can number over 100 in some species such as *Trifolium pretense*
+
++ Unlike monoecy and dioecy, all plants produce seed in self-incompatible species. 
+
+### Self-Incompatibility Systems
+
+Self incompatibility systems may be clasified into two basic types:
+
++ **Heteromorphic**
+
++ **Homomorphic**
+
+#### a. Heteromorphic Incompatibility
+
++ This is caused by differences in the lengths of stamens and style (called **<u>heterostyly</u>**).
+
++ In one flower type called the **<u>pin</u>**, the styles are long while anthers are short; in the other flower type, **thrum**, the reverse is true.
+
++ The pin trait is conditioned by the genotype ss while thrum is conditioned by the genotype Ss. A cross of pin (ss)x pin (ss) as well as thrum (Ss) x thrum (Ss) are <p style="color:orange;">incompatible</p>
+
++ However, pin (ss) × thrum (Ss) or vice versa, is <p style="color:green;">compatible</p> 
+
++ The condition described is **distyly** because of the two different types of style length of the flowers
+
++ In Lythrum three different relative positions occur (called **tristyly**)
+
++ Heteromorphic incompatibility showing floral modifications in which anthers and pistils are of different lengths in different plants (heterostyly)
+
++ This type of incompatibility is believed to be always of the sporophytic type
+
++ Pin and thrum flowers occurs in flowers such as Primula, Forsythia, Oxalis, and Silia
+
+<p align="center"><img src="https://www.researchgate.net/profile/Sophia-Stone-2/publication/263721579/figure/fig8/AS:296556101160969@1447715892442/Morphological-polymorphism-in-heteromorphic-plants-A-The-two-floral-morphs-of-distyly_W640.jpg" alt="Heteromorphic Incompatibility" width="400" height="470"></p>
+
+#### b. Homomorphic incompatibility
+
++ The system is called homomorphic because the flowering structures in both the seed bearing (female) and pollen-bearing (male) plants are similar
+
++ There are two kinds of homomorphic incompatibility;
+
+  ***Gametophytic:***
+
+  + – (originally called the oppositional factor system), the ability of the pollen to function is determined by its own genotype and not the plant that produces it
+  
+  + Gametophytic incompatibility is more widespread than sporophytic incompatibility
+  
+  + Gametophytic incompatibility occurs in species such as red clover, white clover, and yellow sweet clover
+  
+  + It is controlled by a series of alleles at a single locus (S1, S2,...Sn) or alleles at two loci in some species
+  
+  + The alleles of the incompatibility gene(s) act individually in the style; <p style="color:green;"> They exhibit no dominance</p>
+  
+  + <p style="color:blue;"> The incompatible pollen is inhibited in the style</p>
+  
+  + The pistil is diploid and hence contains two incompatibility alleles (e.g., S1S3, S3S4)
+  
+  + Reactions occur if identical alleles in both pollen and style are encountered
+  
+  + <p style="color:orange;"> Only heterozygotes for S alleles are produced in this system</p>
+
+  ***Sporophytic:***
+
+  + The incompatibility characteristics of the pollen are determined by the plant (sporophyte) that produces it
+  
+  + It occurs in species such as broccoli, radish, and kale and families such as Compositae and Cruciferae
+  
+  + The sporophytic system differs from the gametophytic system in that the <p style="color:brown;">S allele exhibits dominance</p>
+  
+  + <p style="color:gold;">Also, it may have individual action in both pollen and the style, making this incompatibility system complex</p>
+  
+  + <p style="color:"pink;">The dominance is determined by the pollen parent</p>
+  
+  + Incompatible pollen may be inhibited on the stigma surface
+  
+  + For example, a plant with genotype S1S2 where S1 is dominant to S2, will produce pollen that will function like S1
+  
+  + Furthermore, S1 pollen will be rejected by an S1 style but received by an S2 style. Hence, homozygotes of S alleles are possible
+
+### Types of Self-incompatibility
+
+- gametophytic incompatibility is associated with pollen with one generative nucleus in the pollen tube as occurs in various kinds of clover
+
+- sporophytic incompatibility is associated with pollen grains with two generative nuclei
+
+<p align="center"><img src="https://d3i71xaburhd42.cloudfront.net/d68aa98f8e85a6b72f08d881119c83ac08f0e16c/3-Figure2-1.png" alt="gametophytic and sporophytic incompatibility" width="400" height="400"></p>
+
++ Incompatibility is expressed in one of three general ways, depending on the species
+
+  + The germination of the pollen may be decreased (e.g., in broccoli)
+  
+    + Sometimes, removing the stigma allows normal pollen germination
+    
+  + Pollen germination is normal, but pollen tube growth is inhibited in the style (e.g., tobacco)
+  
+  + The incompatibility reaction occurs after fertilization (e.g., in Gesteria)
+  
+    + This third mechanism is rare
+
+### Changing the Incompatibility Reaction
+
++ <p style="color:gray;">Mutagens (agnets of mutations) such as x-rays, radioactive sources such as p32,</p> and certain chemicals have been used to make a self-infertile genotype self-fertile. 
+
++ Such a change is easier to achieve in gametophytic systems than sporophytic systems
+
+  + Doubling the chromosome number of species with the sporophytic system of incompatibility does not significantly alter the incopability reaction. 
+
+  + This is because two different alelles already exist in a diploid that may interact to produce the incompatibility effect. 
+
+  + polyploidy only makes more of such alleles available.
+
++ Doubling the chromosome in a gametophytic system would allow the pollen grain to carry two different alleles (instead of one).
+
+  + The allelic interaction could cancel any incompatibility effect to allow selfing to be possible. 
+
+  + Fro example, `diploid pear is self-incompatible whereas autotetraploids pear is self-fruitful.`
+
+### Plant Breeding implicaitons of Self-Incompatibility 
+
++ Self-incompatibility may be temporarly overcome by techniques or strategies suchas `the removal of the stigma surface (or applicaiton of electric shcock), early polinaiton (before inhibitory proteins for), or lowering the temperature (to slow down the development of the inhibitory substance).`
+
++ `Self-incompatibility promotes heterozygosty.`
+
++ <u>Selfing self-incompatible plants can create significant variability from which a breeder can select superior recombinants.</u> 
+
++ Self-incompatibility systems for hybrid seed production have been established for certain crops (e.g., cabbage, kale) that exhibit sporophytic incompatibility
+
++ ***<u>Inbred lines (compatible inbreds) are used as parents</u>***
+
++ These systems are generally used to manage pollinations for commercial production of hybrid seed
+
++ <u>Gametophytic incompatibility</u> occurs in vegetatively propagated species. The clones to be hybridized are planted in adjacent rows
+
+### Applicaiton of Self-Incompatibility in Practical Plant Breeding
+
++ Sporophytic incompatibility is iwdely used in breeding of cabbage and other *Brassica* species.
+
++ The single-cros hybrids are more uniform and easier to produce. 
+
++ The topcross is commonly used
+
++ A singlr self-incompatible parent is used as female, and is open-pollinated by a desirable cultivar as the pollen source
+
+### Male Sterility 
+
++ ***Male sterility*** is a condition in plants whereby `the anthers or pollen are non-functional`
+
++ • Just like self-incompatibility, male sterility enforces cross-pollination
+
++ Similarly, it can be exploited as a tool to eliminate the need for emasculation for producing hybrid seed.
+
++ There are three basic kinds of male sterility based on the origin of the abnormality:
+
+  + ***True male sterility:*** This is due to unisexual flowers that lack male sex organs (dioecy and monoecy) ot to bisexual flowers with abnormal or non-functional microspores (leading to pollen abortion)
+
+  + ***Functional male sterility:*** The anthers fail to release conv ents even though the pollen is fertile. 
+
+  + ***Induced male sterility:*** Plant breeders may use chemicals to induce sterility.
+
+#### True Male Sterility
+
++ There are three kinds of pollen sterility <u>nuclear, cytoplasmic and cytoplasmic-genetic</u>
+
++ ***<u>Genetic (nuclear, genic) male sterility</u>***
+
+  + It is believed that nearly all diploid and polyploid plant species have at least one male-sterility locus.
+
+  + Genetic amle sterility may be manifested as <u>pollen abortion(pistillody)</u> or <u> abnormal anther development.
+
+  + Genetic male sterility is often conditioned by a single recessive nuclear gene, ms, the dominant allele, Ms, conditioning normal anther and pollen development. However, male sterility in alfalfa has been reported to be under the control of two independently inherited genes.
+
+  + `The genetically male-sterile types (msms) can be propagated by crossing them with a heterozygous pollen source (Msms).`
+
+  + `Male sterility may be chemically induced by applying a variety of agents.`
+
+  <p align="center"><img src="https://player.slideplayer.com/88/15874451/slides/slide_35.jpg" alt="Male_sterility" width="400" height="225"></p>
+
++ ***<u>Cytoplasmic Male Sterility</u>***
+
+  + Sometimes, male sterility is controlled by the cytoplasm (mitochondrial gene), but may be influenced by nuclear genes
+  
+  + A cytoplasm without sterility genes is described as normal (N) cytoplasm, while a cytoplasm that causes male sterility is called a sterile (s) cytoplasm or said to have cytoplasmic male sterility (CMS)
+  
+  + CMS is transmitted through the egg onl (maternal factor)
+  
+  + The condition has been induced in species such as sorghum by transferring nuclear chromosomes into a foreign cytoplasm (in this example, a milo plant was pollinated with kafir pollen and backcrossed to kafir)
+  
+  + CMS has been found in species including corn, sorghum, sugar beet, carrot, and flax
+  
+  + This system has real advantages in breeding ornamental species because all the offspring are male-sterile, hence allowing them to remain fruitless 
+  
+    + By not fruiting, the plant remains fresh and in bloom for a longer time
+
+        ![cytoplasmic male sterility](image-15.png)
+
++ ***<u>Cytoplasmic-Genetic male Sterility</u>***
+
+  + CMS may be modified by the presence of fertility-restoring genes (Rf) in the nucleus
+  
+  + CMS is rendered ineffective when the **<u>dominant allele for Rf</u>** occurs, making the anthers able to produce normal pollen 
+  
+  + As previously stated, CMS is transmitted only through the egg, but fertility can be restored by Rf genes in the nucleus
+  
+  + Three kinds of progeny are possible following a cross, depending on the genotype of the pollen source
+  
+  + The resulting progenies assume that the fertility gene will be responsible for fertility restoration
+
+![cytoplasmic-genetic male sterility](image-16.png)
 
 
