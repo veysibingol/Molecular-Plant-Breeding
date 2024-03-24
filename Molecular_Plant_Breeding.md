@@ -1240,7 +1240,7 @@ their original genetic properties</u> indefinitely with repeated use, without a 
 + This mechanism occurs commonly in citrus but rarely in other higher plants. 
 
 <p align="center">
-<img src="https://www.researchgate.net/profile/Siddhi-Baskaware/publication/366996371/figure/fig1/AS:11431281112740124@1673534564737/Various-types-of-apomictic-pathway-in-flowering-plants-normal-sexual-pathway_W640.jpg" alt="Type of apomixis" width="400" height="405"></p>
+<img src="https://www.researchgate.net/profile/Andres-Zuniga-Orozco/publication/355753227/figure/fig3/AS:1084279706656771@1635523835684/Types-of-apomixis-in-angiosperms-First-diplospory-is-observed-present-in-Poaceae-where_W640.jpg" alt="Type of apomixis" width="400" height="336"></p>
 
 #### Parthenogenesis:
 
@@ -1344,7 +1344,7 @@ Self incompatibility systems may be clasified into two basic types:
 
 + Pin and thrum flowers occurs in flowers such as Primula, Forsythia, Oxalis, and Silia
 
-<p align="center"><img src="https://www.researchgate.net/profile/Sophia-Stone-2/publication/263721579/figure/fig8/AS:296556101160969@1447715892442/Morphological-polymorphism-in-heteromorphic-plants-A-The-two-floral-morphs-of-distyly_W640.jpg" alt="Heteromorphic Incompatibility" width="400" height="470"></p>
+![distyly and tristyly](image-17.png)
 
 #### b. Homomorphic incompatibility
 
@@ -1396,7 +1396,7 @@ Self incompatibility systems may be clasified into two basic types:
 
 - sporophytic incompatibility is associated with pollen grains with two generative nuclei
 
-<p align="center"><img src="https://www.researchgate.net/profile/Sophia-Stone-2/publication/263721579/figure/fig1/AS:296556101160960@1447715892034/Genetic-control-of-self-incompatibility-A-Gametophytic-self-incompatibility-The_W640.jpg" alt="gametophytic and sporophytic incompatibility" width="281" height="431"></p>
+<p align="center"><img src="https://www.sccs.swarthmore.edu/users/00/aphilli1/cpd/g-sSystems.jpg" alt="gametophytic and sporophytic incompatibility" width="355" height="375"></p>
 
 + Incompatibility is expressed in one of three general ways, depending on the species
 
