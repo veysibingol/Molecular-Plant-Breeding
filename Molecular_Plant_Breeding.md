@@ -1396,7 +1396,7 @@ Self incompatibility systems may be clasified into two basic types:
 
 - sporophytic incompatibility is associated with pollen grains with two generative nuclei
 
-<p align="center"><img src="https://d3i71xaburhd42.cloudfront.net/d68aa98f8e85a6b72f08d881119c83ac08f0e16c/3-Figure2-1.png" alt="gametophytic and sporophytic incompatibility" width="400" height="400"></p>
+<p align="center"><img src="https://www.researchgate.net/profile/Sophia-Stone-2/publication/263721579/figure/fig1/AS:296556101160960@1447715892034/Genetic-control-of-self-incompatibility-A-Gametophytic-self-incompatibility-The_W640.jpg" alt="gametophytic and sporophytic incompatibility" width="281" height="431"></p>
 
 + Incompatibility is expressed in one of three general ways, depending on the species
 
