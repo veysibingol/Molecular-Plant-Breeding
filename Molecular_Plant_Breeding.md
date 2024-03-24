@@ -1239,8 +1239,7 @@ their original genetic properties</u> indefinitely with repeated use, without a 
 
 + This mechanism occurs commonly in citrus but rarely in other higher plants. 
 
-<p align="center">
-<img src="https://www.researchgate.net/profile/Andres-Zuniga-Orozco/publication/355753227/figure/fig3/AS:1084279706656771@1635523835684/Types-of-apomixis-in-angiosperms-First-diplospory-is-observed-present-in-Poaceae-where_W640.jpg" alt="Type of apomixis" width="400" height="336"></p>
+![Type of apomixis](image-19.png)
 
 #### Parthenogenesis:
 
