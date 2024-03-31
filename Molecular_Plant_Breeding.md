@@ -1477,7 +1477,7 @@ Self incompatibility systems may be clasified into two basic types:
 
   + It is believed that nearly all diploid and polyploid plant species have at least one male-sterility locus.
 
-  + Genetic amle sterility may be manifested as <u>pollen abortion(pistillody)</u> or <u> abnormal anther development.
+  + Genetic amle sterility may be manifested as <u>pollen abortion(pistillody)</u> or <u> abnormal anther development.</u>
 
   + Genetic male sterility is often conditioned by a single recessive nuclear gene, ms, the dominant allele, Ms, conditioning normal anther and pollen development. However, male sterility in alfalfa has been reported to be under the control of two independently inherited genes.
 
@@ -1518,5 +1518,718 @@ Self incompatibility systems may be clasified into two basic types:
   + The resulting progenies assume that the fertility gene will be responsible for fertility restoration
 
 ![cytoplasmic-genetic male sterility](image-16.png)
+
+# LECTURE 4
+
+## Genetic Marker 
+
++ In conventional plant breeding, genetic variation is usually identified by `visual selection`
+
++ With the development of molecular biology, it can now be identified at the molecular level based on chnages in the DNA and their effect on the phenotype 
+
++ Molecular changes can be identified by the many techniques that have been used to label and amplify DNA and to highlight the DNA variation among individuals. 
+
++ Once the DN Ahas been extracted from plants or their seeds, variation in samples can be identfied using a `PCR` and/or `hybridization process followed by polyacrylamide gel electrophoresis (PAGE)` or `capillary electrophoresis (CE)` to identify distinct molecules based on their sizes, chemical composition and charges.
+
+`Hybridization in simple terms is defined as the breeding of two different organisms from genetically diverse groups or species. Hybridization is largely dependent on the sexual cross between two genetically distant strains of the same species, but due to the presence of various reproductive barriers, breeding was limited to sexually compatible groups, thus limiting the gene flow, which resulted in limited opportunities to improve the crop genotype` These notes are taken from the [vuduntu](https://www.vedantu.com/biology/hybridization-in-plants) page.
+
++ Genetic markers are used to tag and track genetic variaiton in DNA samples. 
+
+```markdown
++ Hastalık direnç geni ressesif selfing vardır (backcross işlemi için)
++ Backcross işleminde donorun geni elimine ediliyor.
+```
+***<u>NOTE:</u>*** you can find more information about **backcross** at the [backcross](https://passel2.unl.edu/view/lesson/a5fae15430a3/2) page. 
+
++ Genetic markers represent genetic differences between individual organisms or species. 
+
++ Generally, they do not represent the target genes themeselves but act as `signs` or `flags`
+
++ Genetic markers that are located in close proximity to genes (i.e. tightly linked) may be reffered to as gene ``tags`.
+
++ Such markers themeselves do not affect the ğhenotype of the trait of interest because they are located only near or 'linked' to genes controlling the trait. 
+
++ All genetic markers occupy specific genomic positions within cheomosomes (like genes) callleed `loci` (singular locus).
+
+## Desirable Criteria of Genetic Markers
+
++ High level of genetic polymorphism
+
++ Co-dominance (so that heterozygotes can be distincguished from homomzygotes)
+
++ Clear distinct alllele features (so that different alleles can be identified easily)
+
++ Even distribution on the entire genome
+
++ Neutral selection (without pleiotropic effect)
+
++ Easy detection (so that the whole process can be automated)(`PCR falan filan`)
+
++ Low cost of marker development and genotyping
+
++ High duplicability (so that the data can be accumulated and shared between laboratories) 
+
+## Three Major Types of Genetic Markers
+
++ ***`Morphological (Classical or visible) markers;`*** which themselves are phenotypic traits or characters
+
+  + Morphological markers are usually visually characterized phenotypic characters such as <u>flower colour, seed shape, growth habits or pigmentation</u>.
+
++ ***`Biochemical markers;`*** which include allelic variants of enzymes called isozymes. 
+
+  + Isozyme markers are differences in enzymes that are detected by electrophoresis and specific staining
+
++ The major disadvantages of morphological and biochemical markers are that they may be limited in number and are influenced by environmental factors or the developmental stage of the plant (DNA markers are not affected these disadvantages)
+
++ Despite these limitations, morphological and biochemical markers have been extremely useful to plant breeders.
+
++ ***`DNA (or molecular) markers;`*** which reveal sites of variation in DNA.
+
+  + They arise from different classes of DNA mutations such as substitution mutations (point mutations), rearrangements (insertions or deletions) or errors in replication of tandemly repeated DNA.
+
+  + These markers are selectively **neutral** because they are usually located in non-coding regions of DNA.
+
+  + Apart from the use of DNA markers in the construction of linkage maps, they have numerous applications in plant breeding such as assessing the level of genetic diversity within germplasm and cultivar identity.
+
+## DNA markers
+
++ Linkage maps have been utilised for identifying chromosomal regions that contain genes controlling simple traits (controlled by a single gene) and quantitative traits using QTL analysis.
+
++ The process of constructing linkage maps and conducting QTL analysis -to identify genomic regions associated with traits- is known as QTL mapping (also genetic, gene or genome mapping).
+
++ DNA markers that are tightly linked to agronomically important genes (called gene 'tagging') may be used as molecular tools for `marker-assisted selection (MAS)` in plant breeding. 
+
+  + MAS involves using the prsence/absence of a marker as a substitute for or to assist in phenotypic selection, in a way which may make it more efficient, effective, reliable and cost-effective compared to the more conventional plant breeding methodology
+
++ DNA markers are widely accepted as potentially valuable tools for crop improvement in rice, wheat, maize , barley, tuber crops, pulses, oilseeds, horticultural crop species and pasture species
+
+## Sources of Variation Exploited by the Breeder
+
+Variability available for the plant breeder.
+
+Plant genetic resources 
+
++ Related wild species which mainly occur in 'gene centers' of cultivated plants or outside them. 
+
++ Weed races which occur as part of crop-weed complexes
+
++ Landraces, products of traditional agriculture
+  
++ Modern breeding lines and genetic stocks (in hands of breeders)
+
++ Obsolete cultivars
+
++ Modern cultivars
+
+Interspecific hybridization 
+
++ through sexual means -limited to closely related species
+
++ Also a common phenomenon in nature, as one mechanism of evolution. 
+
++ specially interesting in vegetatively propagated crops, due to frequent problems with the fertility of the hybrid. 
+
++ Somatic hybridization- also applicabe to less related species, as far as the embriyo develops normally (otherwise embriyo-recuse techniques can be applied.)
+
+Induced mutations
+
++ Using radiations or chemicals
+
++ Used to be broadly applied in ornamentals
+
+Chromosome manipulation and polyploidy (how is chromosome manipulation done? it is done by colchicine )
+
++ haploids, diploids, tetraploids…
+
+Gene transfer
+
++ Isolation of genes of relevance and transfer to the same or to a different species
+
+## Contribution of DNA Markers: The Problems 
+
++ the phenotype is an imperfect predictor of the genotype
+
++ The phenotype is not effective in resolving negative associations between genes (linkage, epistasis)
+
+## Contribution of DNA Markers: Direct Reflection of the Genotype
+
++ Two plants can display similar phenotypes, but be very different from a genetic point of view.
+
++ Two plants can display different phenotypes, but be very similar from a genetic point of view
+
+## Contribution of DNA Markers: Heterosis, Hybrid Breeding
+
+factor as heterosis are due to genotypic divergence (in contrast to phenotypic differences)
+
+![heterosis_hybrid breeding](image-20.png)
+
+## Contribution of DNA markers: Introgression Breeding
+
++ Breeders want to introduce into their cultivated plants only the gene(s) of interest while conventional breeding methods rely on the transfer of the whole genome (along the gene of interest, undesirable characters are also co-inherited and have to be eliminated through back crossing followed by selection)
+
+  + Al least 20 backcroos (BC) generations are required for the recovery of full recurrent genome. 
+
++ The introgression of recessive alleles through classical back cross breeding is even more lengthy as this requires additional `generations of selfing after every back crossing`
+
++ Some characters like complex disease resistance reaction or biotic stresses that show continuous variation and do not fit into Mendelian ratios are most difficult to detect and transfer through conventional plant breeding
+
+## How can DNA Markers Help?
+
+![molecular_marker](image-21.png)
+
++ If we analysis the DNA-sequences we can 'fingerprint' the DNA of each individual.
+
++ This information can be used to identify:
+
+  + the individual 
+
+  + Chromosome pieces transferred from one individual to its progeny. 
+
+## Molecular DNA Defined 
+
+A molecular marker is a sequence of DNA or a protein which can be readily detected and whose inheritance can be monitored. 
+
++ It is the variation in, or the polymorphism of, molecular markers which can be used. 
+
+![molecular_marker](image-22.png)
+
+## Why are DNA markers useful?
+
++ They allow us to follow the chromosomal segments which are passed on from one generation to the next
+ 
++ Have a simple Mendelian inheritance (in contrast to most phenotypic traits).
+
+  + They do not interact among themselves
+
+  + They are not influenced by the environment. 
+
++ Enable to identify the carriers of recessive alleles of genes
+
+![useful_of_DNA_Markers](image-23.png)
+
+## Two basic Types of DNA Markers
+
++ Causal mutations: the mutation is responsible for the change in the color of the flower
+
+![Two_Basic_Types_of_DNA_Markers](image-24.png)
+
+## Field of Application
+
+Understanding germplasm relationships
+
++ Markers are useful in four types of measurements needed in this field:
+
+  + **identify:** correct lable of plants
+
+  + **similarity:** degree of relatedness among plants
+
+  + **Structure:** is possible to identify groups of related plants. 
+
+  + ** Detection:** Posses some plants of the collection a particular allele of a gene.
+
+Constructions of genetic linkage maps and tagging economically important genes
+
++ Segregating population constructed using plants with contrasting characteristics
+
++ Through linkage analysis (analysis of the co-segregation of markers) a genetic map is constructed
+
++ By combining phenotypic data with genetic-map information, identify markers which are linked to the gene(s) responsible of the trait
+
+![construction_of_genetic_linkage_maps](image-25.png)
+
+Marker assisted selection
+
++ Use markers linked to agronomic traits to select the best plants to cross
+
++ In most cases, selection has to be performed for more than one trait simultaneously
+
++ In some cases we are interested in the introgression of a specific genome region
+
+analysis of syntenic relationship between genomes
+
++ Genetic maps of different species in which common markers have been placed
+
++ By comparison of the location of the common markers is possible to look for `conserved marker orders` 
+
+Cultivar identification
+
++ useful to control the identify of reproductive material (seeds,grafts, bulbs...)
+
++ Useful to control the unauthorised use of cultivarars from other breeders. 
+
+## DNA Markers: Desired Properties
+
++ Polymorphic: able to detect many different alleles
+
++ Co-dominant: if one individual carries two different alleles we can visualise both
+
++ Occurs throughout the genome
+
++ Easy, fast and inexpensive to detect
+
++ Reproducible within and between laboratories
+
+  + No single technique fulfills all these criteria
+
+  + Choice of DNA fingerprinting technique depends upon the infrastructure, technical expertise and operational funds available as well as requirements of the experiment
+
+## Three Classes of DNA Markers
+
+These classes based on the method of their detecction:
+
++  Hybridization-based (blotting is an example of hybridization)
+
++ Polymerase chain reaction (PCR)-based 
+
++ DNA sequence-based
+
+## Polymorphic markers
+
++ Essentially, DNA markers may reveal genetic differences that can be visualised by using a technique called gel electrophoresis and staining with chemicals (ethidium bromide or silver) or detection with radioactive or colourimetric probes
+
++ DNA markers are particularly useful if they reveal differences between individuals of the same or different species 
+
++ These markers are called polymorphic markers, whereas markers that do not discriminate between genotypes are called monomorphic markers
+
++ DNA markers are particularly useful if they reval differences between individuals of the same or different species. These markers are called `polymorphic markers`, whereas markers that do not discriminate between gentypes are called `monomoric markers`. 
+
+```Markdown
+Molecular marker signals that are used to reveal genotypic differences between individuals due to marker sequence differences are called polymorphic markers. On the other hand, DNA markers that cannot be used to differentiate between or among genotypes are referred to as monomorphic markers.
+```
+
+![poly(mono)morphic_markers](image-26.png)
+
++ Polymorphic markers are indicated by arrows. Markers that do not discriminate between genotypes are called monomorphic markers.
+
+  + a. Example of SSR markers. The polymorphic marker reveals size differences for the marker alleles of the four genotypes, and represent a single genetic locus.
+  
+  + b. Examples of markers generated by the RAPD technique. Note that these markers are either present or absent.
+
++ For both polymorphic markers, there are only two different marker alleles.
+
+## Co-dominant or dominant markers
+
++ Polymorphic markers may also be described as co-dominant or dominant
+
++ This description is based on whether markers can discriminate between homozygotes and heterozygotes
+
++ Co-dominant markers indicate differences in size whereas dominant markers are either present or absent 
+
++ Strictly speaking, the different forms of a DNA marker (e.g. different sized bands on gels) are called marker ‘alleles’
+
++ <u>Co-dominant markers may have many different alleles whereas a dominant marker only has two allele.</u>
+
+![dominant_co-dominant_markers](image-27.png)
+
++ Co-dominant markers (a) can clearly discrim
+nate between homozygotes and heterozygotes whereas dominant markers (b) do not. Genotypes at two marker loci (A and B) are indicated below the gel diagrams. 
+
+![Markers](image-28.png)
+
+![Comparison_of_Marker_systems](image-29.png)
+
+## DNA-markers: Techniques
+
++ A marker technique is a procedure to detect DNA-polymorphisms between chromosomes (within the same individual) or between individuals
+
++ The purpose is to reveal polymorphisms between chromosomes without actually sequencing the fragments
+
++ Many different techniques are available for the detection of polymorphisms at the DNA sequence level (sometimes two different acronyms are used to refer to the same kind of marker)
+
++ Techniques vary in:
+  
+  + Protocol
+
+  + Type of data generated
+
+  + Multiplex ratio (number of loci screened per assay)
+
+  + Taxonomic levels at which they are applicable
+
+  + Technical and financial requirements
+
+  + Fields of application
+
++ No single marker-techniques is ‘perfect’. The choice depends on:
+
+  + Objectives of study
+
+  + Facilities and technical skills
+  
+  + Money
+
+  ## Definition of 'DNA Marker technique'
+
+  + The use of DNA markers is based on polymorphisms
+
+  + Genetic variation bears on the detection methods we employ.
+
+  + Studies have shown that
+
+    + Base pair changes are more frequent than large rearrangements,
+    
+    + Heterogeneity is not restricted by coding regions,
+    
+    + Polymorphisms at the DNA level are much frequent than are charge changes in proteins
+
+  + The polymorphisms present in natural populations differ markedly in different species (average in humans: 1-2 bp/1000 bp; average in maize: 40 bp/1000 bp)
+
+  + The level of variation in a species affects our ability to perform marker analysis. 
+
+  + If one trait is influenced by more than one gene, DNA-markers in different genomic loci will show association with the traits. 
+
+  ![Molecular_basis_of_Major_DNA_markers](image-30.png)
+
+  ## Steps in DNA-Marker Generation
+
+  + DNA extraction
+
+  + Method to zoom in the genome (PCR amplification/restriction of DNA)
+
+  + Seperation of the selected from the non-selected DNA fragments
+
+  + Visualisation of one or more than one loci in the genome (in most cases, a computer image)
+
+  + Interpretation of this image
+
+  + Data analysis
+
+## RFLP (Restriction fragment length polymorphism): Definition 
+
++ involves the study of the variation in DNA restriction fragment length
+
++ Examines differences in size of specific DNA restriction fragments
+
++ Usually performed on total cellular DNA
+
++ Requires relatively big quantities of pure, high molecular weight DNA.
+
+## RFLP: Steps
+
++ Select the probe to use
+
++ Cut the DNA in smaller fragments using one restriction enzyme:
+
+  + This choice is crucial
+  
+  + Different restriction enzymes will cut different DNA fragments and provide independent information (if combined with different probes)
+
++ Separate the fragments by gel electrophoresis
+
++  Denature the agarose gel is using NaOH solution and then neutralize
+
++ Transfer the DNA fragments to a filter by Southern blotting
+
++ Hybridize with a labeled probe (radioactive / fluorescent)
+
++  Wash the membrane to remove nonspecifically hybridized DNA
+
++ ‘Visualize’ the DNA-fragments
+
++ Differences in band pattern reflect genetic differences
+
+![RFLP](image-31.png)
+
+![RFLP_Interpretation_of_Results](image-32.png)
+
+## RFLP: Probes
+
++ ***Single locus:*** Usually species specific, but cross-species hybridization is possible in some cases. 
+
+  + Piece of nuclear DNA (mostly part of a gene)
+
+  + Piece of cytoplasmic DNA.
+
++ ***Multi locus:*** Usually the same probe can be used in different species
+
+  + *Tandem repeats:* mini- en microsatellite sequences
+
+  + **minisatellite sequence:** Short DNA motifs (10-60 base pairs) which occur as tandem repeats at many loci of the genome. Also called VNTR(variable Number of Tandem Repeats)
+
+  + **Microsatellite sequence:** Shorter (1-5 base pair). ALso called SSR(Simple Sequence Repeat)
+
++ In the example, two loci were detected, but we still call this test single locus, as we were able to distinguish the two loci. 
+
+## RAPD (Random amplified polymorphic DNA): Definition
+
++ Involves the PCR amplification of DNA fragments using short primers (+/- 10 nucleotides)
+
++ Requires little quantities of DNA
+
++ Technically simple
+
++ Reproducibility can be low (due to short primers and low stringency PCR conditions)
+
+## RAPD: Steps
+
++ Extract DNA 
+
++ Amplify DNA fragments in a PCR reaction using one short primer
+
++ Separate the PCR products by agarose gel electrophoresis
+
++ ‘Visualize’ the DNA-fragments (e.g. ethidium bromide)
+
++ Usually multiple loci are amplified and differences in band pattern reflect genetic differences
+
+![Technique_of_RAPD](image-33.png)
+
+## SSR (Simple sequence Repeat): Definition 
+
++ Involves the study of the variation in number of repeat units at a given locus.
+
++ Repeat units are short. Repeats can be simple or interrupted. 
+
++ Examines differences in size of specific DNA fragments
+
++ Usually performed on total Cellular DNA
+
++ Requires little amounts of DNA. 
+
+## SSR: Steps
+
++ Extract DNA 
+
++ Amplify DNA fragments in a PCR reaction using two highly specific primers
+
+  + Finding these primers can be time-consuming and expensive
+
++ Separate the fragments by (polyacrylamide) gel electrophoresis
+
++ ‘Visualize’ the DNA-fragments (e.g. ethidium bromide / silver staining/ fluorescent labeling)
+
++ Usually several alleles at one locus are amplified
+
++ Differences in band length reflect genetic differences (between chromosomes of the same individual or between chromosomes of different individuals). 
+
+![SSR_Technique](image-34.png)
+
+## SSR: Primers
+
++ Primers are derived from DNA sequence information in the regions flanking the SSr-motif. 
+
++ This information is derived from:
+
+  + Knowledge in other (related) species
+
+
+    + Some primer pairs in Malus domestica can be used in Malus sylvestris
+    
+    + Some primer pairs in Medicago truculata can be used in Medicago sativa
+
+  + Genomic libraries / cDNA libraries
+
+    + Development of library
+    
+    + Enrichment for SSR sequences (optional)
+    
+    + Identification of clones containing SSR inserts
+    
+    + Sequencing of these clones
+    
+    + Primer pair development
+
+  + Databases (search for SSR motifs in sequences of public databases)
+  
+  + PCR-based method Hayden & Sharp (2001): isolation of sequence tags for SSR fragments, which are ligated to form concatemers for cloning and sequencing. Based on these tags, primers for the amplification of specific SSR loci are developed
+
+## Site Targetted PCR other than SSR
+
++ Same steps required as for SSR detection
+
++ Single locus studied in one reaction, using specific primer pairs
+
++ Examine polymorphisms in specific DNA fragments
+
+  + Size differences (determined after gel electrophoresis)
+  
+  + DNA sequence differences (determined by restriction enzymes)
+
++ Usually performed on total cellular DNA
+
++ Requires little amounts of DNA
+
++ Two general types:
+
+  + STS: markers which amplify sequences of which do not know whether they are expressed or not
+  
+  + EST: markers targeting expressed sequences (pieces of genes)
+
+  ## AFLP (Amplified Fragment length polymorphism): Definition
+
+  + Identifies length polymorphisms is amplified restriction fragments
+
+  + Examines multiple loci in one single reaction. 
+
+  + Usually performed on total cellular DNA
+
+  + Requires little amounts of DNA.
+
+  + Fluorescent labeling and detection on automic sequences allow some automation. 
+
+  + Several steps involved= Relatively difficult to perform, skilled operators required. 
+
+  ## AFLP: Steps
+
+  + Extract DNA 
+
+  + Digest the DNA using two restriction enzymes
+  
+    + Usually one Hexacutter (eg. EcoRI) and one Tetracutter (MseI)
+    
+  + Ligate double stranded adaptors to the restriction fragments
+  
+  + Perform one PCR amplification using primers complementary to the adaptor sequence
+  
+    + These primers are usually extended with 1 or 2 ‘selective nucleotides’
+
+  + Perform a second PCR amplification using labeled primers complementary to the adaptor sequence
+  
+    + These primers are usually extended with 1-4 ‘selective nucleotides’
+    
+  + The total number of selective nucleotides required depends on the complexity of the genome to be analyzed:
+  
+    + Bacteria: 0-2 selective nucleotides
+    
+    + Fungi: 3-5 selective nucleotides
+    
+    + Plants: 5-8 selective nucleotide
+
+```Markdown
+Amplified fragment length polymorphism (AFLP) is a PCR-based technique that uses selective amplification of a subset of digested DNA fragments to generate and compare unique fingerprints for genomes of interest. The power of this method relies mainly in that it does not require prior information regarding the targeted genome, as well as in its high reproducibility and sensitivity for detecting polymorphism at the level of DNA sequence. Widely used for plant and microbial studies, AFLP is employed for a variety of applications, such as: to assess genetic diversity within species or among closely related species, to infer population-level phylogenies and biogeographic patterns, to generate genetic maps and to determine relatedness among cultivars. Variations of standard AFLP methodology have been also developed for targeting additional levels of diversity, like transcriptomic variation and DNA methylation polymorphism.
+```
+
+![AFLP_Technique](image-35.png)
+
+## AFLP Flowchart
+
++ Adabtor DNA= short double strand DNA molecules, 18-20 bp in length, representing a mixture of two types of molecules. 
+
++ Each type is comparable with one restriction  enzyme generated DNA end. 
+
++ Pre-amplificaitons uses selective primers, which contain an adaptor DNA sequence plus one or two random bases at the 3' end for reading into the genomic fragments. 
+
++ Primers for re-amplificaiton have the pre-amplification primer sequecne plus one or two additional bases at the 3'end.
+
++ A tag is attached at the 5' end of one of the re-amplificaiton primers for detecting amplified molecules. 
+
+![AFLP_flowchart](image-36.png)
+
++ Basis of the polymorphisms detected:
+
+  + Changes in the restriction enzymes recognition sites
+  
+  + Changes in the recognition sites of the primer extensions (selective nucleotides)
+  
+  + Insertions/deletions within the DNA fragment
+  
++ Multilocus fingerprint is generated. In most cases, impossible to determine allelic relationships between AFLP fragments
+
+
+***<u>Note:</u>*** each addition of one selective nucleotide will result in a reduction of ¼ of fragments amplified
+
+=> This is one of the most important characteristics of the AFLP technique: ‘flexibility’
+
+## AFLP: Primer Combinations
+
++ AFLP primer combinations are identified by:
+
+  + The restriction enzymes used to generate the DNA fragments
+  
+  + The selective nucleotides added to the primer sequences
+  
++ Examples: EcoRI- ACG + MseI-CT ; PstI-ACTG + MseI-CTT
+
++ Different primer combinations generate (in principle) independent data, as they sample different genome loci
+
++ When we start to work with a new species we need to determine:
+
+  + The restriction enzymes which perform best (incomplete digests will result in non-reproducible results)
+  
+  + The number of nucleotides which are required to get informative fingerprints (small genome: less selective nucleotides; big genomes: more selective nucleotides)
+  
+  + The nature of the nucleotides used in the extensions (AT rich / CG rich …)
+  
+  + The reproducibility of the protocol applied: given the complexity of the protocol applied artifacts can appear. Testing the reproducibility is thus of crucial importance
+
++ We can use information derived from studies in similar species as guideline for number of selective nucleotides restriction enzymes
+
+## SNP (single nucleotide polymorphism): Definition
+
++ Allele 1 ATGTGCATTA  Allele 2 ATGTCCATTA: There is a different nucleotide.
+
++ Offer the oppotunity to uncover allelic variation directly within expressed sequences of candidate genes and to develop haplotypes based on gametic phase disequlibrium.
+
++ SNPs result from single base substitutions in the DNA sequence
+
++ Are the most abundant form of DNA polymorphisms in most organisms
+
++ Cannot be resolved by conventional gel electrophoresis, and novel technologies have been developed (capillary electrophoresis, MALDI-TOF mass spectrometry, pyro sequencing , dHPLC,DNA arrays...)
+ 
++ Most SNP detection protocols involve target sequence PCR amplificaiton, often with fluorescent lableing technologie, enzymatic assays or a combination thereof.
+
+## Types of DNA Markers
+
+Function:
+
++ Functional (detect the mutation which is directly responsible for a change in the phenotype)
+  
++ Non functional
+
+  + In the gene
+  
+  + In the neighbourhood of the gene
+
+Transmission:
+
++ Biparental
+
++ Uniparental
+
+Information-content
+
++ Co-dominant (visualisation of all alleles present)
+
++ Dominant (visualisation of only one allel)
+
+Detection system and multiplex ratio
+
++ PCR-based / hybridisation-based
+
++ Simplex / Multiplex
+
+## Mode of Transmission
+
+Uniparental vs. biparental
+
++ Biparental nuclear inheritance: Nuclear DNA markers in plants and animals
+
++ Maternal organellar inheritance: Mitochondrial and chloroplast DNA-markers in angisoperms
+
++ Paterna organellar inheritance: mitochondrial and chloroplast DNA-markers in gymnospers.
+
+## Information Content
+
+Codominant
+
++ RFLP
+
++ SSR
+
++ STS
+
++ SNP
+
+Dominant
+
++ VNTR
+
++ RAPD
+
++ AFLP
+
+![Multiplex_Ratio](image-37.png)
+
+  
 
 
