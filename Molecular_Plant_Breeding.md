@@ -1904,6 +1904,14 @@ nate between homozygotes and heterozygotes whereas dominant markers (b) do not. 
 
 + Requires relatively big quantities of pure, high molecular weight DNA.
 
+```Markdown
+is a difference in homologous DNA sequences that can be detected by the presence of fragments of different lengths after digestion of the DNA samples in question with specific restriction endonucleases. RFLP, as a molecular marker, is specific to a single clone/restriction enzyme combination.
+
+Most RFLP markers are co-dominant (both alleles in heterozygous sample will be detected) and highly locus-specific.
+
+An RFLP probe is a labeled DNA sequence that hybridizes with one or more fragments of the digested DNA sample after they were separated by gel electrophoresis, thus revealing a unique blotting pattern characteristic to a specific genotype at a specific locus. Short, single- or low-copy genomic DNA or cDNA clones are typically used as RFLP probes.
+```
+
 ## RFLP: Steps
 
 + Select the probe to use
@@ -2230,6 +2238,241 @@ Dominant
 
 ![Multiplex_Ratio](image-37.png)
 
+# Lecture 6
+
+## Molecular Maps: Linkage Mapping
+
+The order and relative distance of geneticfeatures that are associated with geneticvariation or polymorphisms can be determinedby genetic mapping.
+
+**Genome maps** are detailed constructs of the order and/or position of genetic markers and DNA sequence. 
+
+Genetic maps constructed using molecular markers cam also be used to locate major genes which can then also be used as genetic markers 
+
+Maps are two types;
+
++ **Genetic Maps (Linkage maps):** Use recombinaiton frequencies of markers at *meiosis* 
+
+```Markdown 
+A genetic map (also called a linkage map) shows the relative location of genetic markers (reflecting sites of genomic variants) on a chromosome. A genetic map is based on the concept of genetic linkage: the closer two markers are to each other on a chromosome, the greater the probability that they will be inherited together. By studying inheritance patterns, the relative order and location of genetic markers along a chromosome can be established.
+```
+
++ **Physical Maps: Identify exact location of DNA sequence in the genome.
+
+```Markdown
+A physical map, as related to genomics, is a graphical representation of physical locations of landmarks or markers (such as genes, variants and other DNA sequences of interest) within a chromosome or genome. A complete genome sequence is one type of physical map. Physical maps are used to identify genes or other sequences believed to play a role in health conditions or diseases. They are also valuable in providing an organizational framework for generating complete sequences of genomes.
+```
+
+### Linkage Maps:
+
+Graphical representation of gneome
+
++ Using polymorphic markers (DNA markers, Protein markers, metabolic and phenotypi markers)
+
++ **Recombination frequency:** The number of recombinant gametes per 100 gametes. 
+
++ **Cloesly linked loci:** Recombinaiton frequency must be <50%
+
++ **Independent Loci:** Recombinaiton frequency must be = 50%
+
+#### Chromosme Theory and Linkage:
+
++ During the first meiotic division, the homologous chromosomes align and stick together in a process called **synapsis**.
+
++ **Crossing over** is the process by which homologous chromosomes exchange portions of their chromatids during meiosis, resulting in new combinations of genetic information and thus **affecting inheritance and increasing genetic diversity.**
+
++ Genes that are present togwther on the same chromosome tend to be inherited together and are referred to as **linked**.
+
++ The proportion of recombinant gametes depends on the rate of crossover during meiosis and is known as the **recombinant frequency** 
+
+<u>The recombinant frequency depends on the rate of crossover which in turn depends on the linear distance between two genetic loci.</u>
+
+#### Construction of Linkage Maps:
+
++ The most important use for linkage maps is to identify chromosomal locations containing genes and QTLs assocaited with traits of interest; such maps may then be referred to as 'QTL (or genetic)' maps
+
++ **QTL mapping** is based on the prenciple that genes and markers segregate via chromosome recombinaiton (called cross over) during meiosis, thus allowing their analysis in the progeny. 
+
++ Genes or markers that are close together or tightly-linked will be trasnmitted together from parent to progeny more frequenty than genes or markers that are located further apart. 
+
++ THe frequency of recombinant genotypes can be used to calculate recombination fractions, which may by used to infer the **genetic distance between markers**
+
++ By analyzing the segregation of markers, the relative order and distances between markers can be determined- the lower the frequency of recombianiton between two markers, the closer theyare situated on a chromosome (conversely, the higher the frequency of recombinaiton between two markers, the further away they are situated on a chromosome). 
+
++ Markers that have a recombinaiton frequency of 50% are described as 'unlinked' and assumed to be located far apart on the same chromosome or on different chromosomes. 
+
+#### Linkage Mapping
+
++ Mapping functions are used to convert recombination fractions into map units called centi-Morgans(cM) 
+
++ Linkage maps are constructed from the analysis of many segregating markers
+
++ The main steps of linkage map construction are:
+
+  + Production of a mapping population
   
+  + Identification of polymorphism
+  
+  + Segregation analysis
+  
+  + Determination of linkage groups (comput
+  onal)
+  
+  + Determination of marker order
+
+![Mapping population](image-38.png)
+
+![Frequency](image-40.png)
+
+![Linkage Phase](image-41.png)
+
+Marker order in a linkage group 
+
++ Map function translates recombination frequencies into map distances 
+
+  + **Haldane Function** 
+
+    Takes into account double strand, three and four strand crossovers. But assumes that 2-3-4 strand corssovers does not interfere with single crossovers. 
+
+  + **Kossambi Funciton:**
+
+    Takes into account interference. 
+
+ ```Markdown
+When map distances are small (<10 cM), the map distance equals the recombination frequency. However, this relationship does not apply for map distances that are greater than 10 cM. Hence, the researcher must select one of the two genetic mapping functions (Haldane or Kosambi), which translates recombination frequencies into map distances and vice versa. Haldane’s mapping function (Haldane, 1931) assumes absence of interference between crossovers in meiosis, whereas Kosambi’s mapping function (Kosambi, 1944) assumes a certain degree of interference. Interference is the effect in which the occurrence of a crossover in a certain region reduces the probability of a crossover in the adjacent region. Such mapping functions convert recombination fractions into map units called centimorgans (cM) in honor of the geneticist Thomas Hunt Morgan. By definition, one map unit (m.u.) is equal to one percent recombinant phenotypes or 1 cM. For recombination frequentcies above 10%, Haldane mapping functions gives higher map distance than Kosambi; hence, the total map length of a species will be much higher for the Haldane’s than Kosambi’s mapping function.
+```
+
+### Mapping Populations
+
++ The parents selected for the mapping population will differ for one or more traits of interest. 
+
++ Population sizes used in preliminary genetic mapping studies generrally range from 50 to 250 individuals, however larger populations are required for high-resolution mapping. 
+
++ If the mapp will be used for QTL studies, then an important point to note is that the mapping population must be phenotypically evaluated before subsequent QTL mapping. 
+
++ Generally **in self-pollinaitng species**, mapping populations origiante from parents that are both highly homozygous (inbred)
+
++ In cross pollinating species, the situation is more complicated since most of these species do not tolerate inbreeding. 
+
++ Mapping populations used for mapping cross pollinating species may be derived from a cross between a heterozygous parent and a haploid or homozygous parent. 
+
+#### Advantages and Disadvantages of Several Mapping Populations:
+
++ F2 populations, derived from F1 hybrids, and backcross (BC) populations, derived by crossing the F1 hybrid to one of the parents, are the simplest types of mapping populations developed for self pollinating species. 
+
++ Inbreeding from individual F2 plants allows the construction of recombinant inbreed (RI) lines, which consist of series of homozygous lines, each containing a unique combination of chromosomal segments from the original parents. 
+
+  + The lenght of time needed for producing RI populations is the major disadvantage, because  usually six to eight generations are required. 
+
++ Doubled haploid (DH) populations may be produced by regenerating plants by the induction of chromosome doubling from pollen grains, however, the ptoduction of DH populations is only possible in species that are amenable to tissue culture. 
+
++ The major advantages of RI and DH populations are that they produce homozygous or ‘true-breeding’ lines that can be multiplied and reproduced without genetic change occurring
+
++ This allows for the conduct of replicated trials across different locations and years
+
++ Thus bothRI and DH population srepresent‘eternal’ resources for QTL mapping
+
++ Furthermore, seed from individual RI or DH lines may be transferred between different laboratories for further linkage analysis and the addition of markers to existing maps, ensuring that all collaborators examine identical material. 
+
+```Markdown
+The first step in producing a mapping population is selecting two genetically divergent parents, which show clear genetic differences for one or more traits of interest. The parents should be genetically divergent enough to exhibit sufficient polymorphism and at the same time they should not be too genetically distant so as to:
+a) Cause sterility of the progenies and/or 
+b) Show very high levels of segregation distortion during linkage analysis.
+```
+
+As shown in Figure below progenies from the second filial generation (F2), backcross (BC), recombinant inbred lines (RILs), double haploids (DHs), and near isogenic lines (NILs) can be used for genetic mapping in self-pollinating species (Burr et al.,1988; He et al., 2001; Doerge, 2002). Selection of populations is critical to successful linkage mapping. F2 populations are developed by selfing F1 hybrids derived by crossing the two parents while BC population is produced by crossing F1 back into one of the parents (the recipient or recurrent parent). RILs are developed by single-seed selections from individual plants of an F2 population; such selections continue for six to eight generations. If backcross selection is repeated at least for six generations, more than 99% of the genome from BC6 and above will be derived from recurrent parent (Babu et al., 2004). Selfing of selected individuals from BC7F1 will produce BC7F2 lines that are homozygous for the target gene, which is said to be nearly isogenic with the recipient parent (NILs). NILs are frequently generated by plant breeders as they transfer major genes between varieties by backcross breeding (Tanks ley et al., 1995). A DH population is produced by doubling the gametes of F1 or F2 population. Plants will be regenerated using tissue culture techniques after induction of chromosome doubling from pollen grains or haploid embryos resulting from species crosses.
+
+![mapping populations for self p. species.](image-42.png)
+
+F2 and BC populations are considered to be temporary populations because they are highly heterozygous and cannot be propagated indefinitely through seeds. RILs, NILs and DHs are permanent populations because they are homozygous or ‘true-breeding’ lines that can be multiplied and reproduced without gene tic change occurring.
+
+Maximum genetic information is obtained from F2 population using a codominant marker system. Dominant markers supply as much information as codominant markers in RIL, NILs and DHs because all loci are homozygous, or nearly so.
+
+BC populations can be useful for mapping dominant markers if all loci in the recurrent parent are homozygous, and the donor and recurrent parent have contrasting polymorphic marker alleles Information obtained from BC populations using either codominant or dominant markers is less than that obtained from F2 populations because one, rather than two, recombinant gametes are sampled per plant. If the phenotypic variation is known to be controlled by QTLs which all exhibit complete dominance in the same direction, then a backcross to the recessive parent results in the QTL segregating in two classes and this cross is a more powerful means of locating QTLs than F2. F2 is more powerful for detecting QTLs of additive effect and can also be used to estimate the degree of dominance for detected QTLs. All of these information taken from [ResearchGate](https://www.researchgate.net/publication/228909274_Principles_requirements_and_prospects_of_genetic_mapping_in_plants)
+
+### Identification of Polymorphism 
+
++  The second step in the construction of a linkage map is to identify DNA markers that reveal differences between parents
+
++ In general, cross pollinating species possess higher levels of DNA polymorphism compared to inbreeding species;mapping in inbreeding species generally requires the selection of parents that are distantly related. 
+
++ In many cases, parents that provide adequate polymorphism are selected on the basis of the level of genetic diversity between parents.
+
++ The choice of DNA markers used for mapping may depend on the availability of characterized markers or the appropriateness of particular markers for a particular species.
+
++ Once polymorphic markers have been identified, they must be screened across the entire mapping population, including the parents (and F1 hybrid, if possible) 
+
++ This is known as marker ‘genotyping’ of the population. 
+
++ Therefore, DNA must be extracted from each individual of the mapping population when DNA markers are used.
+
++ Significant deviations from expected ratios can be analyzed using chi-square tests. 
+
++ Generally, markers will segregate in a Mendelian fashion although distorted segregation ratios maybe encountered. 
+
++ In some polyploid species such as sugarcane, identifying polymorphic markers is more complicated.
+
++ The mapping of diploid relatives of polyploid species can be of great benefit in developing maps for polyploid species. 
+
++ However, diploid relatives do not exist for all polyploid species.
+
++ A general method for the mapping of polyploid species is based on the use of single-dose restriction fragments.
+
+![Expected segregation ratios for markers in different population types](image-43.png)
+
+### Linkage Analysis of Markers
+
++ Although linkage analysis can be performed manually for a few markers, it is not feasible to manually analyze and determine linkages between large numbers of markers that are used to construct maps; compute rprograms are required for this purpose.
+
++ Linkage between markers is usually calculated using odds ratios (i.e. the ratio of linkage versus no linkage).
+
++ This ratio is more conveniently expressed as the logarithm of the ratio and is called a logarithm of odds (LOD) value or LOD score. 
+
++ LOD values of >3 are typically used to construct linkage maps
+
++ A LOD value of 3 between two markers indicates that linkage is 1000 times more likely (i.e. 1000:1) than no linkage (null hypothesis) [log10(1000)=3] 
+
++ LOD values may be lowered in order to detect a greater level of linkage or to place additional markers within maps constructed at higher LOD values.
+
++ Commonly used software programs include Mapmaker/EXP and MapManager QTX, which are freely available from the internet.
+
++ Join Map is another commonly-used program for constructing linkage maps.
+
+![Construction of a Linkage map](image-44.png)
+
+### A typical output of a linkage map
+
++ A difficulty associated with obtaining an equal number of linkage groups and chromosomes is that the polymorphic markers detected are not necessarily evenly distributed over the chromosome, but clustered in some regions and absent in others.
+
++  In addition to the non-random distribution of markers, the frequency of recombination is not equal along chromosomes.
+
++ The accuracy of measuring the genetic distance and determining marker order is directly related to the number of individuals studied in the mapping population.
+
++ Ideally, mapping populations should consist of minimum of 50 individuals for constructing linkage maps.
+
+![A typical output of a linkage map](image-45.png)
+
+### Genetic Distance andMapping Functions
+
++ The greater the distance between markers, the greater the chance of recombinaiton occuring during meiosis. 
+
++ Distance along a linkage map is measured in terms of the frequency of recombination between genetic. 
+
++ Mapping functions are required to convert recombination frequency and the frequency of crossing over are not lineraly related. 
+
++ When map distances are small (<10 cM), the map distance equals the recombination frequency.
+
++ However, this relationship does not apply for map distances that are greater than 10CM. 
+
++ Two commonly used mappingfunctions are the Kosambi mapping function, which assumes 
+that recombination events influence the occurrence of adjacent recombination events, and 
+the Haldane mapping function, which assumes no interference between crossover events.
+
++ **It should be noted that distance on a linkage map is not directly related to the physical distance of DNA between genetic markers, but depends on the genome size of the plant species.**
+
++ Furthermore, the relationship between genetic and physical distance varies along a chromosome. 
+
+![Chromosome bins](image-46.png)
 
 
+
+More information in [opengenetics.pressbooks](https://opengenetics.pressbooks.tru.ca/chapter/genetic-mapping/) page. 
