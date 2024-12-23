@@ -2476,3 +2476,73 @@ the Haldane mapping function, which assumes no interference between crossover ev
 
 
 More information in [opengenetics.pressbooks](https://opengenetics.pressbooks.tru.ca/chapter/genetic-mapping/) page. 
+
+# Lecture 7
+
+## Molecular Dissection of Complex Traits
+
++  Before any planning can be done it is necessary to know as much as possible about the genetical control of the traits to be improved. Important knowledge is:
+
+  + Is the trait inherited
+
+  + How much of the phenotypic variation is explained **by genetic factore** and how much **by the environment?**
+
+  + What is the nature of genetic variation?
+
+  + How is the genetic variation organised?
+
++ The total phenotypic variance (Vp) can be partioned into genetic (Vg) and environmental variance (Ve) → ***Vg = Va + Vd + Vad***
+
++ From this informaiton:
+
+  + it is possible to estimate the heritability of the trait and predict the response of the trait to selection
+  
+  + It is possible to estimate the number of genes which control the trait.
+
+ ## Genic Control of Variability:
+
++ Some traits such as incompatibility, some disease resistances are controlled by one or two genes with big effects (monogenic traits)  
+  
+  + Differences in expression are 'qualitative'
+
++ Most traits such as growth or yield are complex, being under the control of a number of genes as well as the enivronment (polygenic trait)
+
+  + Differences in expression are 2quantitative'
+
+## Qualitative and Quantitative Traits
+
+### Qualitative Trait:
+
+Environment can play a role, complicating the interpretation of the results:
+
++ If we want to find DNA-markers that can help us to predict phenotype, we are only searching for one genetic locus. There exist standard experimental approches for this (e.g linkge map construction, bulk segregant analysis)
+
+### Quantitative Trait:
+
+There are many genotypes and there are no clear phenotypic differences among them.
+
++ If we want to find DNA markers that can help us to predict this phenotype, we are searching for several genetic loci simultaneously
+
++ There exist standard experimental approches for this (e.g QTL analysis)
+
++ This leads to many difficulties:
+
+  + Many different genotypes can display the same phenotype.
+
+  + 3 genes each with small equal effect on the phenotype
+
+  + Each gene has two co-dominant alleles
+
+  + 27 genotypes are possible, but we only see 7 phenotype. 
+
+  ![Quantitative Trait](image-47.png)
+
+  + Epistasis: The effect of the genotype at one locus may depend on the genotype at another locus (non-allelic interaction)
+
+  ![Epistasis](image-48.png)
+
+## Analysis of Phenotypic Data
+
+
+
+
